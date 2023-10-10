@@ -80,6 +80,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&" alt="Dhruv_Dhayal" /></p>
 <br>
+<center>
 <pre><b>>>>>>If, any enquiry / feedback / advice / suggestions , feel free to contact via.Mail: <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><mark>Contact US!</mark></a><<<<<</b></pre>
-
+</center>
 

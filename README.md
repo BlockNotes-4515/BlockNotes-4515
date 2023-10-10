@@ -16,8 +16,8 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 - 🌐✈ <b>Ask me about:</b> || C ,DSA(C), C++, DSA(C++), Python, Web-Dev(HTML(5), CSS, JS,) Framework(Bootstrap) ||🚅
 
 - 📫 <b>How to reach me:</b>
--                       1. Linkdin:https://www.linkedin.com/in/dhruv-dhayal-9568b7262/ 🐱‍💻
-                        2. Gmail: dhayaldhruv271@gmail.com
+-                       1. Linkdin:<a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/">https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"</a> 🐱‍💻
+                        2. Gmail: <a href="dhayaldhruv271@gmail.com">dhayaldhruv271@gmail.com</a>
                         3. Contact: 8529994515 (Working) |Status- Busy|
 
   🔰<center><pre>||--------------------------------------------About Myself!-------------------------------------------------||

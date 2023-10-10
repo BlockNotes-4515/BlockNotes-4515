@@ -51,19 +51,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 ||-------------------------------------------------------------------------------------------------------------------------------------------||</pre></center>
 
 
-
-
-
-
-
-
-
-
-
-
-
-                  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://web.telegram.org/k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhruv_Dhayal" height="30" width="40" /></a>
@@ -92,5 +79,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&locale=en" alt="Dhruv_Dhayal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&" alt="Dhruv_Dhayal" /></p>
+<br>
+<pre><b>If, any enquiry / feedback / advice / suggestions , feel free to contact via.Mail: <a href="dhayaldhruv271@gmail.com"><mark>Contact US!</mark></a></b></pre>
 
 

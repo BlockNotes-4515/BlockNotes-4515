@@ -1,7 +1,7 @@
-# Dhruv_Dhayal
+<bg color="green"># Dhruv_Dhayal
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
-<hr>
+<hr></bg>
 <h3 align="center">Upcoming Software Develouper Aboard! from INDIA </h3>
 <hr>
 

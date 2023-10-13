@@ -1,4 +1,5 @@
- <link rel="stylesheet" type="text/css" href="ode">
+![My Background Image](URL_TO_IMAGE)
+<img src="URL_TO_IMAGE" alt="ode.jpg">
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
 <hr>

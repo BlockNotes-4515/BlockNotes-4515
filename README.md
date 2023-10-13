@@ -1,3 +1,16 @@
+<style>
+  body {
+    background-image:"ode.jpeg";
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+}
+</style>
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
 <hr>

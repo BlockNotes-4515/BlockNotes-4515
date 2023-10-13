@@ -1,4 +1,4 @@
-<img src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1890px; height: 217px; margin: 0px; width: 482px;" alt="5 Best Coding Programs for Aspiring Programmers | HP® Tech Takes" jsname="kn3ccd" aria-hidden="false">
+<img src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/5%20Best%20Coding%20Programs%20for%20Aspiring%20Programmers1650304687858345.jpg">
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
 <hr>

@@ -1,5 +1,5 @@
 
-<img src="https://marketplace.canva.com/EAFFa4KUNAE/1/0/1600w/canva-black-brown-geometric-motivational-desktop-wallpaper-5foRQZGaO7g.jpg" alt="There is No! Tommorrow!!">
+<img src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2021/06/Cyber-Quote-of-the-Week-2.026.jpeg?resize=1000%2C563&ssl=1" alt="There is No! Tommorrow!!">
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
 <hr>

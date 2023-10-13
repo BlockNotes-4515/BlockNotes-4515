@@ -1,5 +1,5 @@
 
-<img src="https://c8.alamy.com/comp/2K2R5DA/data-code-on-computer-screen-2K2R5DA.jpg" alt="There is No! Tommorrow!!">
+<img src="https://i.pinimg.com/736x/66/02/27/6602272fe6e2da48a37f16d2567f98a0.jpg" alt="There is No! Tommorrow!!">
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
 <hr>

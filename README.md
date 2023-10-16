@@ -23,12 +23,14 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
   🔰<center><pre>||--------------------------------------------About Myself!-------------------------------------------------||
 
 
-👋 As a 'BCA.H' Student & currently serve as a coordinator in Software Development Cell, I have a passionate of deep interest in software development & Software Engineering. passionate and driven Computer Science student with a deep-rooted love for programming and technology. Aspiring to make a positive impact in the digital world, I am constantly seeking opportunities to expand my skill set and grow as a professional in the tech industry.
+👋 --> As a 'BCA.H' Student & currently serve as a coordinator in Software Development Cell, I have a passionate of deep interest in software development & Software Engineering. passionate and driven Computer Science student with a deep-rooted love for programming and technology. Aspiring to make a positive impact in the digital world, I am constantly seeking opportunities to expand my skill set and grow as a professional in the tech industry.
 
-🎓 <b><u>Education:</u></b>
+
+🎓 --> <b><u>Education:</u></b>
 Currently pursuing a Bachelor's degree in Computer Science, I have been immersed in a dynamic and challenging curriculum that covers a wide range of topics such as data structures, algorithms, software engineering, and database management. My academic journey has not only honed my problem-solving abilities but also instilled in me a thirst for knowledge in this ever-evolving field.
 
-💻 <b><u>Technical Expertise:</u></b>
+
+💻 --> <b><u>Technical Expertise:</u></b>
 I have a solid command over various programming languages, including:
 
 <b>Python:</b> My go-to language for its simplicity and flexibility, enabling me to create efficient scripts and explore the realms of data analysis and machine learning.
@@ -36,16 +38,19 @@ I have a solid command over various programming languages, including:
 <br><b>HTML/CSS/JavaScript/PHP:</b> Proficient in Front-End & Back-End web technologies, I enjoy creating visually appealing and interactive web applications.
 <br><b>SQL:</b> With a firm grasp on database management, I can efficiently design and manipulate databases for various applications.
 
-💡 <b><u>Projects and Passion:</u></b>
+
+💡 --> <b><u>Projects and Passion:</u></b>
 Throughout my academic journey, I have actively engaged in personal projects, hackathons, and coding competitions. These experiences have not only bolstered my technical skills but also taught me the value of teamwork and creativity in finding innovative solutions to complex problems. I also done my Project in the Web-Develoupment, Python Programming(Hotel-Management), and in coming near future my projects will be Announce soon.
 
-🌟 <b><u>Key Strengths:</u></b>
+
+🌟 --> <b><u>Key Strengths:</u></b>
 
 Strong analytical skills with a detail-oriented approach to coding.
 Effective communicator and team player, thriving in collaborative environments.
 Keen on staying updated with the latest industry trends and best practices.
 
-🚀 <b><u>Future Endeavors:</u></b>
+
+🚀 -->  <b><u>Future Endeavors:</u></b>
 As I approach the next phase of my journey, I'm eager to contribute my skills and passion to a dynamic team where I can continue to grow as a software developer. I am open to internships, projects, or job opportunities that align with my interests and allow me to challenge myself while making a meaningful impact.
 <br>
 ||-------------------------------------------------------------------------------------------------------------------------------------------||</pre></center>

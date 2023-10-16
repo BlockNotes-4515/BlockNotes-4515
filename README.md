@@ -1,4 +1,4 @@
-<img align="top" alt="banner" src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2021/06/Cyber-Quote-of-the-Week-2.026.jpeg?resize=1000%2C563&ssl=1">
+<img align="top" alt="banner" src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2021/06/Cyber-Quote-of-the-Week-2.026.jpeg?resize=1000%2C563&ssl=1" height=60>
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
 <hr>
@@ -12,13 +12,13 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <p align="left"> <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img src="https://komarev.com/ghpvc/?username=BlockNotes-4515&label=Linkdin&color=0e75b6&style=rectangle-bar" alt="Dhruv_Dhayal" /></a> </p>
 
 - 🗽🎌 <b>I’m currently learning:</b> || OOps in C++, ASP.NET C# ||🎌
-
+- 🕵️‍♂️ <b> Technical Department Member- SDIC(Software Develoupment Cell).
 - 🌐✈ <b>Ask me about:</b> || C ,DSA(C), C++, DSA(C++), Python, Web-Dev(HTML(5), CSS, JS,) Framework(Bootstrap) ||🚅
-
-- 📫 <b>How to reach me:</b>
+- ⚓🛸"DRY- Dont't Repeat Yourself!";
+- 📫 <b>How to reach me:</b><center>
 -                       1.🗽 Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" 🐱‍💻
                         2. 🎗Gmail: dhayaldhruv271@gmail.com
-                        3. 📞Contact: 8529994515 (Working) |Status- Busy|
+                        3. 📞Contact: 8529994515 (Working) |Status- Busy|</center>
 
   🔰<center><pre>||--------------------------------------------About Myself!-------------------------------------------------||
 

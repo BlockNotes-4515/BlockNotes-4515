@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2021/06/Cyber-Quote-of-the-Week-2.026.jpeg?resize=1000%2C563&ssl=1" alt="There is No! Tommorrow!!">
+<img align="top" alt="banner" src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2021/06/Cyber-Quote-of-the-Week-2.026.jpeg?resize=1000%2C563&ssl=1">
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
 <hr>
@@ -50,7 +50,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <br>
 ||-------------------------------------------------------------------------------------------------------------------------------------------||</pre></center>
 
-![BlockNotes-4515 GitHub stats](https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&theme=radical)](https://github.com/BlockNotes-4515)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=BlockNotes-4515)

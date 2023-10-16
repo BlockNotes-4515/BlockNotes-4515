@@ -1,4 +1,4 @@
-<img align="top" alt="banner" src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2021/06/Cyber-Quote-of-the-Week-2.026.jpeg?resize=1000%2C563&ssl=1" height=60>
+<img align="top" alt="banner" src="https://github.com/BlockNotes-4515/BlockNotes-4515/blob/main/Dhruv Dhayal.png" height=60>
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
 <hr>

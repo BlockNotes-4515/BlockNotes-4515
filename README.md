@@ -88,9 +88,9 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&locale=en" alt="Dhruv_Dhayal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&" alt="Dhruv_Dhayal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&" alt="Dhruv_Dhayal" /><img align="right" src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2021/06/Cyber-Quote-of-the-Week-2.026.jpeg?resize=1000%2C563&ssl=1"></p>
 <br>
 <center>
 <pre><b>>>>>>If, any enquiry / feedback / advice / suggestions , feel free to contact via.Mail: <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><mark>Contact US!</mark></a><<<<<</b></pre>
 </center>
-
+<img align="right" src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2021/06/Cyber-Quote-of-the-Week-2.026.jpeg?resize=1000%2C563&ssl=1">

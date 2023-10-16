@@ -1,4 +1,3 @@
-
 <img src="https://i0.wp.com/cybersophia.net/wp-content/uploads/2021/06/Cyber-Quote-of-the-Week-2.026.jpeg?resize=1000%2C563&ssl=1" alt="There is No! Tommorrow!!">
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
@@ -17,9 +16,9 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 - 🌐✈ <b>Ask me about:</b> || C ,DSA(C), C++, DSA(C++), Python, Web-Dev(HTML(5), CSS, JS,) Framework(Bootstrap) ||🚅
 
 - 📫 <b>How to reach me:</b>
--                       1. Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" 🐱‍💻
-                        2. Gmail: dhayaldhruv271@gmail.com
-                        3. Contact: 8529994515 (Working) |Status- Busy|
+-                       1.🗽 Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" 🐱‍💻
+                        2. 🎗Gmail: dhayaldhruv271@gmail.com
+                        3. 📞Contact: 8529994515 (Working) |Status- Busy|
 
   🔰<center><pre>||--------------------------------------------About Myself!-------------------------------------------------||
 
@@ -50,6 +49,12 @@ Keen on staying updated with the latest industry trends and best practices.
 As I approach the next phase of my journey, I'm eager to contribute my skills and passion to a dynamic team where I can continue to grow as a software developer. I am open to internships, projects, or job opportunities that align with my interests and allow me to challenge myself while making a meaningful impact.
 <br>
 ||-------------------------------------------------------------------------------------------------------------------------------------------||</pre></center>
+
+![BlockNotes-4515 GitHub stats](https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&theme=radical)](https://github.com/BlockNotes-4515)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=BlockNotes-4515)
+
 
 
 <h3 align="left">Connect with me:</h3>

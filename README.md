@@ -63,7 +63,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://web.telegram.org/k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhruv_Dhayal" height="30" width="40" /></a>
+<a href="https://twitter.com/DhayalDhruv" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1709450663~exp=1709451263~hmac=92a36ca26d0652a186358c0390208e12630bfcddd7e805ac6f39f446f9ca9d8f" alt="Dhruv_Dhayal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhruv_Dhayal-4515" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dhayaldhruv271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dhruv_Dhayal" height="30" width="40" /></a>
 </p>

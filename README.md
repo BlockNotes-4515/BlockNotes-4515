@@ -22,7 +22,7 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 - 📫 <b>How to reach me:</b><center>
 -                       1.🗽 Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" 🐱‍💻
                         2. 🎗Gmail: dhayaldhruv271@gmail.com
-                        3. 📞Contact: 8529994515 (Working) |Status- Busy|</center>
+                        3. 📞Contact: 8529994515 (Working)     |Status- Busy|
 
   🔰<center><pre>||--------------------------------------------About Myself!-------------------------------------------------||
 

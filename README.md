@@ -37,8 +37,11 @@ Currently pursuing a Bachelor's degree in Computer Science, I have been immersed
 I have a solid command over various programming languages, including:
 
 <b>Python:</b> My go-to language for its simplicity and flexibility, enabling me to create efficient scripts and explore the realms of data analysis and machine learning.
+
 <br><b>C/C++:</b> A language I admire for its power and performance, which has helped me understand low-level concepts and develop efficient systems software.
+
 <br><b>HTML/CSS/JavaScript/PHP:</b> Proficient in Front-End & Back-End web technologies, I enjoy creating visually appealing and interactive web applications.
+
 <br><b>SQL:</b> With a firm grasp on database management, I can efficiently design and manipulate databases for various applications.
 
 

@@ -18,6 +18,7 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 - 🔰 I'am the Creator of "CheatSheet": <a>https://blocknotes-4515.github.io/CheatSheet/</a><br>
 
      --> "Cheatsheet" hits 456+ visits in 2hr, or 5679+ in 2 Days!
+  -🐱‍💻 Hacker Rank: https://www.hackerrank.com/profile/dhayaldhruv271
 - 📫 <b>How to reach me:</b><center>
 -                       1.🗽 Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" 🐱‍💻
                         2. 🎗Gmail: dhayaldhruv271@gmail.com
@@ -35,17 +36,14 @@ Currently pursuing a Bachelor's degree in Computer Science, I have been immersed
 
 💻 --> <b><u>Technical Expertise:</u></b>
 I have a solid command over various programming languages, including:
-
 <b>Python:</b> My go-to language for its simplicity and flexibility, enabling me to create efficient scripts and explore the realms of data analysis and machine learning.
-
 <br><b>C/C++:</b> A language I admire for its power and performance, which has helped me understand low-level concepts and develop efficient systems software.
-
 <br><b>HTML/CSS/JavaScript/PHP:</b> Proficient in Front-End & Back-End web technologies, I enjoy creating visually appealing and interactive web applications.
-
 <br><b>SQL:</b> With a firm grasp on database management, I can efficiently design and manipulate databases for various applications.
 
 
 💡 --> <b><u>Projects and Passion:</u></b>
+
 Throughout my academic journey, I have actively engaged in personal projects, hackathons, and coding competitions. These experiences have not only bolstered my technical skills but also taught me the value of teamwork and creativity in finding innovative solutions to complex problems. I also done my Project in the Web-Develoupment, Python Programming(Hotel-Management), and in coming near future my projects will be Announce soon.
 
 

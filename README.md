@@ -101,6 +101,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     
 <br>
 <center>
-<pre><b>>>>>>If, any enquiry / feedback / advice / suggestions , feel free to contact via.Mail: <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><mark>Contact US!</mark></a><<<<<</b></pre>
+      <img align="center" src="https://i.pinimg.com/originals/f5/fd/b7/f5fdb72fc16d8321eafa563679d0593b.gif" border="2" alt="I_love_him!"></p>
+<pre><b>       >>>>>If, any enquiry / feedback / advice / suggestions , feel free to contact via.Mail: <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><mark>Contact US!</mark></a><<<<<</b></pre>
 </center>
  <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

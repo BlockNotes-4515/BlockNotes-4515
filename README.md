@@ -96,7 +96,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&locale=en" alt="Dhruv_Dhayal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&" alt="Dhruv_Dhayal" />
-     <img align="right" src="https://media.licdn.com/dms/image/D5622AQGlFisBmiUjvg/feedshare-shrink_800/0/1710765944818?e=1714003200&v=beta&t=aIfWVW9OA0TaY3acfoKHrCXIbQHA2hfQZ9Dr_EMFV0g" height="50%" width="50%"></p>
+     <img align="right" src="#"></p>
 <br>
 <center>
 <pre><b>>>>>>If, any enquiry / feedback / advice / suggestions , feel free to contact via.Mail: <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><mark>Contact US!</mark></a><<<<<</b></pre>

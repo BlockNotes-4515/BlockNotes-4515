@@ -107,12 +107,12 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&" alt="Dhruv_Dhayal" />
 
-    
+<a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
 <br>
 <center>
+<hr>
  <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
 <hr>
- <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
 <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
 <hr>
 </center>

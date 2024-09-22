@@ -108,6 +108,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     
 <br>
 <center>
- <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://i.pinimg.com/originals/f5/fd/b7/f5fdb72fc16d8321eafa563679d0593b.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
+ <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" border="4" alt="I_love_him!" width="100%" height="60%"></a>
 </center>
  <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

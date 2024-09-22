@@ -61,8 +61,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&theme=radical)](https://github.com/BlockNotes-4515) 
 
-<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" height="30%" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" height="30%" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" height="20%" width="15%">
+<img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" height="20%" width="15%">
 
 
 

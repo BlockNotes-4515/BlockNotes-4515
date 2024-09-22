@@ -105,8 +105,11 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&locale=en" alt="Dhruv_Dhayal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&" alt="Dhruv_Dhayal" />
-<img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif">
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&" alt="Dhruv_Dhayal" />
+    <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" height="100" width="100">
+</div>
+
 
 
 

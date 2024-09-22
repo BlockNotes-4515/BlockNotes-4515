@@ -59,12 +59,10 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <br>
 ||-------------------------------------------------------------------------------------------------------------------------------------------||</pre></center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&theme=radical)](https://github.com/BlockNotes-4515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&theme=radical)](https://github.com/BlockNotes-4515) 
 
-![GIF 1](https://your-optimized-url1.gif)
-![GIF 2](https://your-optimized-url2.gif)
-![GIF 3](https://your-optimized-url3.gif)
-![GIF 4](https://your-optimized-url4.gif)
+[![BUSY](https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif)
+[![BUSY](https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=BlockNotes-4515)
@@ -112,5 +110,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <hr>
  <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
 <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
+<hr>
 </center>
  <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

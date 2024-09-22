@@ -107,8 +107,9 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlockNotes-4515&" alt="Dhruv_Dhayal" />
-    <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" height="20%" width="32%">
+    <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" height="20%" width="30%" style="margin-left: 10px;">
 </div>
+
 
 
 

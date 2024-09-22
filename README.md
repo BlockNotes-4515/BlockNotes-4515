@@ -108,6 +108,9 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     
 <br>
 <center>
- <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" border="4" alt="I_love_him!" width="100%" height="60%"></a>
+ <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
+<hr>
+ <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
+<a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
 </center>
  <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

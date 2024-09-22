@@ -5,7 +5,7 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <h3 align="center">Upcoming Software Develouper Aboard! from INDIA </h3>
 <hr>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" style = "border-radius: 75px">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" style = "border-radius: 75px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlockNotes-4515&label=Profile%20views&color=0e75b6&style=rectangle-bar" alt="Dhruv_Dhayal" /> </p>
 

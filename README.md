@@ -161,10 +161,10 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <br><br>    
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting Fir Ayega Fir (Rasma Chawal Khane Chlenge Acha Chl Treat Meri Trf Se! [🔝](#--gifs-for-readme--)
 
 ### Made with 💜 by [@dhruvdhayalCo.](https://www.instagram.com/dhayaldhruv271/?hl=en)
 
-### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
+### Please 🌟 this repository! It really helps others to find this!! Ok! DRY-"Don't Repeat Yourself"<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
 
 <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

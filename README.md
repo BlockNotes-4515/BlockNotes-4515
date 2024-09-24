@@ -129,8 +129,10 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Moving Logos -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
+<div align="center">
 ## Moving Logos [🔝](#--gifs-for-readme--)
+</div>
+
   
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -158,9 +160,10 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <br><br>    
 
 
+<div align="center">
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
-
 ### Made with 💜 by [@dhruvdhayalCo.](https://www.instagram.com/dhayaldhruv271/?hl=en)
-
 ### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
- <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>
+</div>
+
+<img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

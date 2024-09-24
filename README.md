@@ -58,6 +58,7 @@ Keen on staying updated with the latest industry trends and best practices.
 As I approach the next phase of my journey, I'm eager to contribute my skills and passion to a dynamic team where I can continue to grow as a software developer. I am open to internships, projects, or job opportunities that align with my interests and allow me to challenge myself while making a meaningful impact.
 <br>
 ||-------------------------------------------------------------------------------------------------------------------------------------------||</pre></center>
+<hr>
 
 <div style="display: flex; align-items: center;">
     <a href="https://github.com/BlockNotes-4515">

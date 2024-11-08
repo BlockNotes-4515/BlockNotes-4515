@@ -100,7 +100,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://share.streamlit.io/"><img src="https://image.pngaaa.com/798/5084798-middle.png" alt="mysql" width="40" height="40"/>
 </p>
-<div style="width:100%;height:0;padding-bottom:153%;position:relative;"><iframe src="https://giphy.com/embed/OFEabGCcVqsckIGn8G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/GitHub-github-octocat-githubuniverse2024-OFEabGCcVqsckIGn8G">via GIPHY</a></p>
 <hr>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlockNotes-4515&show_icons=true&locale=en&layout=compact" alt="Dhruv_Dhayal" /></p>

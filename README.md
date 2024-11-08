@@ -100,7 +100,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://share.streamlit.io/"><img src="https://image.pngaaa.com/798/5084798-middle.png" alt="mysql" width="40" height="40"/>
 </p>
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcxOTM1NTYsIm5iZiI6MTcyNzE5MzI1NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI0VDE1NTQxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlYWRhYWNmZjc5N2EzZDEwZGQxMzU1OGNmMGQ4OTI0NDRmN2Y4YjBkZTU0NTdjNzI1MmVmZjVmMmEzNWM4NjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kAcp4KHodzgb-H29E1wAB7z8wuoS0lz8-Pc5Cb-IDCk">
+<div style="width:100%;height:0;padding-bottom:153%;position:relative;"><iframe src="https://giphy.com/embed/OFEabGCcVqsckIGn8G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/GitHub-github-octocat-githubuniverse2024-OFEabGCcVqsckIGn8G">via GIPHY</a></p>
 <hr>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlockNotes-4515&show_icons=true&locale=en&layout=compact" alt="Dhruv_Dhayal" /></p>

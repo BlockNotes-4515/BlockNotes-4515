@@ -109,7 +109,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://user-images.githubusercontent.com/20955511/183303704-65313140-d66a-4f9b-9ce6-da176ecd6ec7.png" />
-     
     <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" height="20%" width="20%" style="margin-left: 15px;">
 </div>
 

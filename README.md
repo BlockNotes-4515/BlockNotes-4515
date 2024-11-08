@@ -99,6 +99,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://share.streamlit.io/"><img src="https://image.pngaaa.com/798/5084798-middle.png" alt="mysql" width="40" height="40"/>
+     <img src="https://gitpod.io/static/media/gitpod.a7ab675222656fbdedcaae486135c60a.svg" alt="mysql" width="40" height="40"/>
 </p>
 <hr>
 <p>

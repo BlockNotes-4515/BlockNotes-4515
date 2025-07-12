@@ -20,8 +20,8 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 
      --> "Cheatsheet" hits 456+ visits in 2hr, or 5679+ in 2 Days!
 <hr>
-<h2 align="center" style="margin-bottom: 16px;">
-  <strong>📬 How to reach me</strong>
+<h2 align="center" style="margin-bottom: 20px;">
+  <strong>📬 How to Reach Me</strong>
 </h2>
 <table align="center">
   <tr>
@@ -37,18 +37,23 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
         </tr>
         <tr>
           <td align="center">📷</td>
-          <td><strong>Instagram:</strong></td>
-          <td><a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayalCo.</a></td>
+          <td><strong>Instagram - </strong></td>
+          <td><a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayal271</a></td>
         </tr>
         <tr>
           <td align="center">💼</td>
-          <td><strong>LinkedIn:</strong></td>
-          <td><a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">linkedin.com/in/your-linkedin-id</a></td>
+          <td><strong>LinkedIn - </strong></td>
+          <td><a href="https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank">linkedin.com/in/your-linkedin-id</a></td>
         </tr>
         <tr>
           <td align="center">💻</td>
-          <td><strong>GitHub:</strong></td>
-          <td><a href="https://github.com/dhruvdhayal271" target="_blank">github.com/dhruvdhayal271</a></td>
+          <td><strong>GitHub - </strong></td>
+          <td><a href="https://github.com/BlockNotes-4515" target="_blank">BlockNotes-4515</a></td>
+        </tr>
+        <tr>
+          <td align="center"></td>
+          <td><strong>Spotify - </strong></td>
+          <td><a href="https://github.com/dhruvdhayal271](https://open.spotify.com/playlist/4Kj8u2FK0MCuLIQ1KO41eE?si=b6HQpPunQQ65lpzu8ID6uA&pi=7o-k0-nzS62bu" target="_blank">RELAXATION PT.1</a></td
         </tr>
       </table>
     </td>

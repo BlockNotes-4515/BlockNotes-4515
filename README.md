@@ -96,9 +96,10 @@ Keen on staying updated with the latest industry trends and best practices.
 ☢️<h2><b>Future Endeavors:</b></h2>
 As I approach the next phase of my journey, I'm eager to contribute my skills and passion to a dynamic team where I can continue to grow as a software developer. I am open to internships, projects, or job opportunities that align with my interests and allow me to challenge myself while making a meaningful impact.
 <br>
+
 <hr>
 <h2 align="center">🏆 <strong>Be a Part of a Hackathon Team</strong></h2>
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="90%" width="90%">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <hr>
 
 <div style="display: flex; align-items: center;">

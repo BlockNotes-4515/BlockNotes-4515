@@ -98,8 +98,49 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <br>
 
 <hr>
-<h2 align="center">🏆 <strong>Gallery Media</strong></h2>
-<img src="">
+<h2 align="center">🏆🖼️ <strong>Gallery Media</strong></h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Images/Best Of Me.jpg" width="250" alt="Best Of Me" />
+    </td>
+    <td align="center">
+      <img src="Images/Finance Tower.jpg" width="250" alt="Finance Tower" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Images/Enjoy.jpg" width="250" alt="Enjoy" />
+    </td>
+    <td align="center">
+      <img src="Images/Revenge.jpg" width="250" alt="Revenge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Images/waiting for someone.jpg" width="250" alt="Waiting" />
+    </td>
+    <td align="center">
+      <img src="Images/Team CyberGeeks.jpg" width="250" alt="Team CyberGeeks" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Images/Skyline.jpg" width="250" alt="Skyline" />
+    </td>
+    <td align="center">
+      <img src="Images/Abu Dhabi.jpg" width="250" alt="Abu Dhabi" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Images/Trip Kuwait.jpg" width="250" alt="Trip Kuwait" />
+    </td>
+    <td align="center">
+      <img src="Images/Salam Walekum.jpg" width="250" alt="Salam Walekum" />
+    </td>
+  </tr>
+</table>
 <hr>
 
 <div style="display: flex; align-items: center;">

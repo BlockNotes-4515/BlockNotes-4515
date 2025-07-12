@@ -11,12 +11,12 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 
 <p align="left"> <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img src="https://komarev.com/ghpvc/?username=BlockNotes-4515&label=Linkdin&color=0e75b6&style=rectangle-bar" alt="Dhruv_Dhayal" /></a> </p>
 
-✅ <b> Ex - Former Project Management Intern @Spotify | 🇸🇪
-✅ <b> Ex - Technical IoT Head & Core Member at @SDIC | 🇮🇳
-✅ <b> Young Acheiver Awardee @KCST S4IOT'25 | 🇰🇼
-✅ <b> Trust The Process, Busy In Creating The Beast 
-✅ <b> Discord Community : <a href="https://discord.gg/Gj7PHdaR">@Become an Avengers</a>
-✅ <b> Research Scholar Partnership @CyberGeeks
+✅ <b> Ex - Former Project Management Intern @Spotify | 🇸🇪 <br>
+✅ <b> Ex - Technical IoT Head & Core Member at @SDIC | 🇮🇳 <br>
+✅ <b> Young Acheiver Awardee @KCST S4IOT'25 | 🇰🇼 <br>
+✅ <b> Trust The Process, Busy In Creating The Beast <br>
+✅ <b> Discord Community : <a href="https://discord.gg/Gj7PHdaR">@Become an Avengers</a> <br>
+✅ <b> Research Scholar Partnership @CyberGeeks <br>
 
 <hr>
 <h2 align="center" style="margin-bottom: 20px;">

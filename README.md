@@ -102,8 +102,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     <a href="https://github.com/BlockNotes-4515">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&theme=radical" alt="Top Langs">
     </a>
-     <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" height="10%" width="20%">
-    <img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" height="10%" width="20%">
 </div>
 
 
@@ -112,7 +110,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">📞 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/DhayalDhruv" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1709450663~exp=1709451263~hmac=92a36ca26d0652a186358c0390208e12630bfcddd7e805ac6f39f446f9ca9d8f" alt="Dhruv_Dhayal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhruv_Dhayal-4515" height="30" width="40" /></a>
@@ -146,9 +144,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&locale=en" alt="Dhruv_Dhayal" /></p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://user-images.githubusercontent.com/20955511/183303704-65313140-d66a-4f9b-9ce6-da176ecd6ec7.png" />
-    <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" height="20%" width="20%" style="margin-left: 15px;">
-</div>
+    <img src="https://user-images.githubusercontent.com/20955511/183303704-65313140-d66a-4f9b-9ce6-da176ecd6ec7.png" width="85%"/>
 
 
 

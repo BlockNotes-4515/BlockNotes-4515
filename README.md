@@ -98,8 +98,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <br>
 
 <hr>
-<h2 align="center">🏆 <strong>Be a Part of a Hackathon Team</strong></h2>
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<h2 align="center">🏆 <strong>Gallery Media</strong></h2>
+<img src="">
 <hr>
 
 <div style="display: flex; align-items: center;">

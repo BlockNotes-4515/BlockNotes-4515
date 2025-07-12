@@ -171,10 +171,10 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
   <strong>Made with 💜 by <a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayalCo.</a></strong>
 </h3>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 40px;">
   <strong>
-    <span style="font-size: 24px;">Please 🌟 this repository! It really helps others to find this!!</span><br><br>
-    <span style="font-size: 20px;">Ok! DRY - "Don't Repeat Yourself"</span>
+    <span style="font-size: 30px;">Please 🌟 this repository! It really helps others to find this!!</span><br><br>
+    <span style="font-size: 30px;">Ok! DRY - "Don't Repeat Yourself"</span>
     <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="28" />
   </strong>
 </div>

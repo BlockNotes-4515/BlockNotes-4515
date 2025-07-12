@@ -25,12 +25,9 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 </h2>
 <table align="center">
   <tr>
-    <!-- GIF on the left -->
     <td align="center" width="300">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="250" height="250" alt="animated hello">
     </td>
-
-    <!-- Links with emojis on the right -->
     <td align="left" valign="top">
       <table>
         <tr>

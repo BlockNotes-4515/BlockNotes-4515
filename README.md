@@ -116,8 +116,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     <td align="center" colspan="4">
       <td align="center"><img src="Images/sheep8.jpg" width="180" alt="Waiting" /></td>
       <td align="center"><img src="Images/sheep4.jpg" width="180" alt="CyberGeeks" /></td>
-      <img src="Images/Trip Kuwait.jpg" width="180" alt="Trip Kuwait" />
-      <img src="Images/Salam Walekum.jpg" width="180" alt="Salam Walekum" />
+      <td align="center"><img src="Images/Trip Kuwait.jpg" width="180" alt="Trip Kuwait" /></td>
+      <td align="center"><img src="Images/Salam Walekum.jpg" width="180" alt="Salam Walekum" /></td>
     </td>
   </tr>
 </table>

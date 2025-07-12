@@ -173,8 +173,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <div align="center" style="margin-bottom: 40px;">
   <strong>
-    <span style="font-size: 50px;">Please 🌟 this repository! It really helps others to find this!!</span><br>
-    <span style="font-size: 50px;">Ok! DRY - "Don't Repeat Yourself"</span>
+    <span style="font-size: 60px;">Please 🌟 this repository! It really helps others to find this!!</span><br>
+    <span style="font-size: 60px;">Ok! DRY - "Don't Repeat Yourself"</span>
     <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />
   </strong>
 </div>

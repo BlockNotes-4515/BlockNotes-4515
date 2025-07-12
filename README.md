@@ -23,10 +23,10 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <h2 align="center" style="margin-bottom: 16px;">
   <strong>📬 How to reach me</strong>
 </h2>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="200" height="200" alt="animated hello">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" height="500" alt="animated hello">
 <table align="center">
   <tr>
-    <td align="center" valign="top" width="60">
+    <td align="right" valign="top" width="80">
       😊<br>📧<br>📷<br>💼<br>💻
     </td>
     <td>
@@ -38,8 +38,9 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
       </ul>
     </td>
   </tr>
-</table>                
+</table>        
 <hr>
+
 <h2 align="center">🙋‍♂️ <strong>About Myself</strong></h2>
 
 

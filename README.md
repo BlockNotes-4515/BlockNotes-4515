@@ -23,22 +23,41 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <h2 align="center" style="margin-bottom: 16px;">
   <strong>📬 How to reach me</strong>
 </h2>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" height="500" alt="animated hello">
 <table align="center">
   <tr>
-    <td align="right" valign="top" width="80">
-      😊<br>📧<br>📷<br>💼<br>💻
+    <!-- GIF on the left -->
+    <td align="center" width="300">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="250" height="250" alt="animated hello">
     </td>
-    <td>
-      <ul>
-        <li><strong>Email:</strong> <a href="mailto:dhayaldhruv271@gmail.com">dhayaldhruv271@gmail.com</a></li>
-        <li><strong>Instagram:</strong> <a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayalCo.</a></li>
-        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">linkedin.com/in/your-linkedin-id</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/dhruvdhayal271" target="_blank">github.com/dhruvdhayal271</a></li>
-      </ul>
+
+    <!-- Links with emojis on the right -->
+    <td align="left" valign="top">
+      <table>
+        <tr>
+          <td align="center">😊</td>
+          <td><strong>Email:</strong></td>
+          <td><a href="mailto:dhayaldhruv271@gmail.com">dhayaldhruv271@gmail.com</a></td>
+        </tr>
+        <tr>
+          <td align="center">📷</td>
+          <td><strong>Instagram:</strong></td>
+          <td><a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayalCo.</a></td>
+        </tr>
+        <tr>
+          <td align="center">💼</td>
+          <td><strong>LinkedIn:</strong></td>
+          <td><a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">linkedin.com/in/your-linkedin-id</a></td>
+        </tr>
+        <tr>
+          <td align="center">💻</td>
+          <td><strong>GitHub:</strong></td>
+          <td><a href="https://github.com/dhruvdhayal271" target="_blank">github.com/dhruvdhayal271</a></td>
+        </tr>
+      </table>
     </td>
   </tr>
-</table>        
+</table>
+
 <hr>
 
 <h2 align="center">🙋‍♂️ <strong>About Myself</strong></h2>

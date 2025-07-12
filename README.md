@@ -105,6 +105,10 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     <td align="center"><img src="Images/Finance Tower.jpg" width="180" alt="Finance Tower" /></td>
     <td align="center"><img src="Images/Enjoy.jpg" width="180" alt="Enjoy" /></td>
     <td align="center"><img src="Images/Revenge.jpg" width="180" alt="Revenge" /></td>
+    <td align="center"><img src="Images/sheep10.jpg" width="180" alt="Best Of Me" /></td>
+    <td align="center"><img src="Images/sheep11.jpg" width="180" alt="Finance Tower" /></td>
+    <td align="center"><img src="Images/sheep9.jpg" width="180" alt="Enjoy" /></td>
+    <td align="center"><img src="Images/sheep12.jpg" width="180" alt="Revenge" /></td>
   </tr>
   <tr>
     <td align="center"><img src="Images/waiting for someone.jpg" width="180" alt="Waiting" /></td>

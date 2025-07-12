@@ -120,12 +120,13 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <br>
 <center>
 <hr>
- <p align="center">
-  <img src="https://your-link-to-the-gif.gif](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="GIF" width="800" height="200"/>
+     <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Android Developer Challenge" width="100%" style="max-width: 800px;">
 </p>
-<hr>
+
 <p align="center">
-  <img src="https://your-link-to-the-gif.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="GIF" width="800" height="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Retro Tech Graphic" width="100%" style="max-width: 800px;">
+</p>
 <hr>
 </center>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->

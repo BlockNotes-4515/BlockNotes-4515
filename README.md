@@ -122,7 +122,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <hr>
  <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
 <hr>
-<a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
+<a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" border="4](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="I_love_him!" width="100%" height="60%"></a>
 <hr>
 </center>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->

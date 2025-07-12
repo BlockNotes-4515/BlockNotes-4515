@@ -19,12 +19,20 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 - 🔰 I'am the Creator of "CheatSheet": <a>https://blocknotes-4515.github.io/CheatSheet/</a><br>
 
      --> "Cheatsheet" hits 456+ visits in 2hr, or 5679+ in 2 Days!
-- 📫 <b>How to reach me:</b><center>
--                       1.🗽 Linkdin: https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" 🐱‍💻
-                        2. 🎗Gmail: dhayaldhruv271@gmail.com
-                        3. 📞Contact: 8529994515 (Working)     |Status- Busy|
-
-  🔰<center><pre>||--------------------------------------------About Myself!-------------------------------------------------||
+<hr>
+<h2 align="center" style="margin-bottom: 16px;">
+  <strong>📬 How to reach me</strong>
+</h2>
+<p align="center">
+  <blockquote>
+    📧 <strong>Email:</strong> <a href="mailto:dhayaldhruv271@gmail.com">dhayaldhruv271@gmail.com</a> ✔️
+    🧠 <strong>Instagram:</strong> <a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayal271</a> ✔️ 
+    💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">Dhruv Dhayal_ </a> ✔️ 
+    💻 <strong>GitHub:</strong> <a href="https://github.com/dhruvdhayal271" target="_blank">github.com/dhruvdhayal271</a> ✔️
+  </blockquote>
+</p>                  
+<hr>
+<h2 align="center">🙋‍♂️ <strong>About Myself</strong></h2>
 
 
 👋 --> As a 'BCA.H' Student & currently serve as a coordinator in Software Development Cell, I have a passionate of deep interest in software development & Software Engineering. passionate and driven Computer Science student with a deep-rooted love for programming and technology. Aspiring to make a positive impact in the digital world, I am constantly seeking opportunities to expand my skill set and grow as a professional in the tech industry.

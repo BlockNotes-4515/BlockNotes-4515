@@ -2,10 +2,10 @@
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
 <hr>
-<h3 align="center">Upcoming Software Develouper Aboard! from INDIA </h3>
+<h3 align="center">Upcoming Software Develouper Aboard! from INDIA 🇮🇳</h3>
 <hr>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png" style = "border-radius: 75px">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212907112-d360cd3f-bae2-42de-a41a-ca5622488e96.png](https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIzMDExMTAsIm5iZiI6MTc1MjMwMDgxMCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEyVDA2MTMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3MTBhZGIxNDJmN2MzMTRiMGZhMjdmZGQwZWI0OGNhY2EwMTViMDE4Y2Q0ODRkYjM2NWU2MzBjOTVmNDc0NzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TBz4el-QkY63jtGO36JWjGO26hwgqFSju5CmJmG6wt8" style = "border-radius: 75px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlockNotes-4515&label=Profile%20views&color=0e75b6&style=rectangle-bar" alt="Dhruv_Dhayal" /> </p>
 

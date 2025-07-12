@@ -11,14 +11,13 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 
 <p align="left"> <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img src="https://komarev.com/ghpvc/?username=BlockNotes-4515&label=Linkdin&color=0e75b6&style=rectangle-bar" alt="Dhruv_Dhayal" /></a> </p>
 
-- 🗽🎌 <b>I’m currently learning:</b> || OOps in C++, ASP.NET C# ||🎌
-- 🕵️‍♂️ <b> Technical Department Member- SDIC(Software Develoupment Cell).
-- 🌐✈ <b>Ask me about:</b> || C ,DSA(C), C++, DSA(C++), Python, Web-Dev(HTML(5), CSS, JS,) Framework(Bootstrap) ||🚅
-- ⚓🛸"DRY- Dont't Repeat Yourself!"
-- 🐱‍💻 Hacker Rank: https://www.hackerrank.com/profile/dhayaldhruv271
-- 🔰 I'am the Creator of "CheatSheet": <a>https://blocknotes-4515.github.io/CheatSheet/</a><br>
+✅ <b> Ex - Former Project Management Intern @Spotify | 🇸🇪
+✅ <b> Ex - Technical IoT Head & Core Member at @SDIC | 🇮🇳
+✅ <b> Young Acheiver Awardee @KCST S4IOT'25 | 🇰🇼
+✅ <b> Trust The Process, Busy In Creating The Beast 
+✅ <b> Discord Community : <a href="https://discord.gg/Gj7PHdaR">@Become an Avengers</a>
+✅ <b> Research Scholar Partnership @CyberGeeks
 
-     --> "Cheatsheet" hits 456+ visits in 2hr, or 5679+ in 2 Days!
 <hr>
 <h2 align="center" style="margin-bottom: 20px;">
   <strong>📬 How to Reach Me</strong>

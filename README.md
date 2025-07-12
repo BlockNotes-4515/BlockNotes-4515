@@ -144,7 +144,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&locale=en" alt="Dhruv_Dhayal" /></p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://user-images.githubusercontent.com/20955511/183303704-65313140-d66a-4f9b-9ce6-da176ecd6ec7.png" width="85%"/>
+    <img src="https://user-images.githubusercontent.com/20955511/183303704-65313140-d66a-4f9b-9ce6-da176ecd6ec7.png" width="50%"/>
 
 
 

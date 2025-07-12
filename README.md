@@ -23,14 +23,22 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <h2 align="center" style="margin-bottom: 16px;">
   <strong>📬 How to reach me</strong>
 </h2>
-<p align="center">
-  <blockquote>
-    📧 <strong>Email:</strong> <a href="mailto:dhayaldhruv271@gmail.com">dhayaldhruv271@gmail.com</a> ✔️
-    🧠 <strong>Instagram:</strong> <a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayal271</a> ✔️ 
-    💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">Dhruv Dhayal_ </a> ✔️ 
-    💻 <strong>GitHub:</strong> <a href="https://github.com/dhruvdhayal271" target="_blank">github.com/dhruvdhayal271</a> ✔️
-  </blockquote>
-</p>                  
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="200" height="200" alt="animated hello">
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="60">
+      😊<br>📧<br>📷<br>💼<br>💻
+    </td>
+    <td>
+      <ul>
+        <li><strong>Email:</strong> <a href="mailto:dhayaldhruv271@gmail.com">dhayaldhruv271@gmail.com</a></li>
+        <li><strong>Instagram:</strong> <a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayalCo.</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">linkedin.com/in/your-linkedin-id</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/dhruvdhayal271" target="_blank">github.com/dhruvdhayal271</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>                
 <hr>
 <h2 align="center">🙋‍♂️ <strong>About Myself</strong></h2>
 

@@ -97,6 +97,9 @@ Keen on staying updated with the latest industry trends and best practices.
 As I approach the next phase of my journey, I'm eager to contribute my skills and passion to a dynamic team where I can continue to grow as a software developer. I am open to internships, projects, or job opportunities that align with my interests and allow me to challenge myself while making a meaningful impact.
 <br>
 <hr>
+<h2 align="center">🏆 <strong>Be a Part of a Hackathon Winner</strong></h2>
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="50%" width="50%">
+<hr>
 
 <div style="display: flex; align-items: center;">
     <a href="https://github.com/BlockNotes-4515">
@@ -110,7 +113,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 
 
-<h2 align="left">📞 Connect with me:</h2>
+<h2 align="center">📞 Connect With Me..! 🤙 Let's Connect!</h2>
 <p align="left">
 <a href="https://twitter.com/DhayalDhruv" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1709450663~exp=1709451263~hmac=92a36ca26d0652a186358c0390208e12630bfcddd7e805ac6f39f446f9ca9d8f" alt="Dhruv_Dhayal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhruv_Dhayal-4515" height="30" width="40" /></a>

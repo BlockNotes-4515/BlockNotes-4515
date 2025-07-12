@@ -101,19 +101,21 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <h2 align="center">🏆🖼️ <strong>Gallery Media</strong></h2>
 <table align="center">
   <tr>
-    <td align="center"><img src="Images/Best Of Me.jpg" width="180" alt="Best Of Me" /></td>
+    <td align="center"><img src="Images/sheep3.jpg" width="180" alt="Best Of Me" /></td>
     <td align="center"><img src="Images/Finance Tower.jpg" width="180" alt="Finance Tower" /></td>
     <td align="center"><img src="Images/Enjoy.jpg" width="180" alt="Enjoy" /></td>
     <td align="center"><img src="Images/Revenge.jpg" width="180" alt="Revenge" /></td>
   </tr>
   <tr>
     <td align="center"><img src="Images/waiting for someone.jpg" width="180" alt="Waiting" /></td>
-    <td align="center"><img src="Images/Team CyberGeeks.jpg" width="180" alt="CyberGeeks" /></td>
+    <td align="center"><img src="Images/sheep2.jpg" width="180" alt="CyberGeeks" /></td>
     <td align="center"><img src="Images/Skyline.jpg" width="180" alt="Skyline" /></td>
     <td align="center"><img src="Images/Abu Dhabi.jpg" width="180" alt="Abu Dhabi" /></td>
   </tr>
   <tr>
     <td align="center" colspan="4">
+      <td align="center"><img src="Images/sheep8.jpg" width="180" alt="Waiting" /></td>
+      <td align="center"><img src="Images/sheep4.jpg" width="180" alt="CyberGeeks" /></td>
       <img src="Images/Trip Kuwait.jpg" width="180" alt="Trip Kuwait" />
       <img src="Images/Salam Walekum.jpg" width="180" alt="Salam Walekum" />
     </td>

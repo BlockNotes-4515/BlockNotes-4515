@@ -25,8 +25,8 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 </h2>
 <table align="center">
   <tr>
-    <td align="center" width="300">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="250" height="250" alt="animated hello">
+    <td align="center" width="350">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="350" height="250" alt="animated hello">
     </td>
     <td align="left" valign="top">
       <table>
@@ -51,7 +51,7 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
           <td><a href="https://github.com/BlockNotes-4515" target="_blank">BlockNotes-4515</a></td>
         </tr>
         <tr>
-          <td align="center"></td>
+          <td align="center">📀</td>
           <td><strong>Spotify - </strong></td>
           <td><a href="https://github.com/dhruvdhayal271](https://open.spotify.com/playlist/4Kj8u2FK0MCuLIQ1KO41eE?si=b6HQpPunQQ65lpzu8ID6uA&pi=7o-k0-nzS62bu" target="_blank">RELAXATION PT.1</a></td
         </tr>

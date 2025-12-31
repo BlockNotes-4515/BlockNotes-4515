@@ -133,7 +133,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <div style="display: flex; align-items: center;">
     <a href="https://github.com/BlockNotes-4515">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&theme=radical" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&theme=radical)&layout=compact&theme=radical" alt="Top Langs">
     </a>
 </div>
 

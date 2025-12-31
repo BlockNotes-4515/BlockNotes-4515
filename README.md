@@ -139,7 +139,12 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BlokNotes-4515)](https://github.com/BlokNotes-4515/github-profile-trophy)
+## 🏆 Achievements & Stats
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BlockNotes4515&theme=flat&no-frame=true&margin-w=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes4515&layout=compact&cache_seconds=1800)
+
 
 
 

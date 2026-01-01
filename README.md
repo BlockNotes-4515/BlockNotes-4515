@@ -135,20 +135,17 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
   </tr>
 </table>
 <hr>
-
+<!--
 <div style="display: flex; align-items: center;">
     <a href="https://github.com/BlockNotes-4515">
         <img src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&theme=radical&layout=compact&theme=radical" alt="Top Langs">
     </a>
 </div>
-
-
+-->
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BlockNotes-4515&margin-w=15" />
-</p>
-
-
-
+</p>-->
 
 
 

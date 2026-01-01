@@ -290,6 +290,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CLion-Dark.svg" height="48"/>
+
 </div>
 <br><br>    
 

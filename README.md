@@ -159,8 +159,27 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
+            <!--Main Programming Languages -->
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Fortran.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azul.svg" height="48"/>
+
+
+
+           <!--Web Development Programming Languages -->
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Webflow.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="48"/>
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg" height="48"/>
 
 
 

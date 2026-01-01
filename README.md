@@ -143,10 +143,10 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 </div>
 
 
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlockNotes-4515&theme=darkhub&column=6&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BlockNotes-4515&margin-w=15" />
 </p>
+
 
 
 

@@ -144,11 +144,10 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 
 
-## 🏆 Achievements & Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BlockNotes-4515&theme=darkhub&column=6&margin-w=15" />
+</p>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=BlockNotes-4515&theme=flat&no-frame=true&margin-w=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&cache_seconds=1800)
 
 
 

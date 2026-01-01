@@ -182,6 +182,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg" height="48"/>
 
@@ -215,6 +216,17 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Anaconda-Dark.svg" height="48"/>
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Premiere.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/XD.svg" height="48"/>
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Audition.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AfterEffects.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rider-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg" height="48"/>
 
 
 

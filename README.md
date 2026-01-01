@@ -77,7 +77,7 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 👋 As a 'BCA.H' Student & currently serve as a coordinator in Software Development Cell, I have a passionate of deep interest in software development & Software Engineering. passionate and driven Computer Science student with a deep-rooted love for programming and technology. Aspiring to make a positive impact in the digital world, I am constantly seeking opportunities to expand my skill set and grow as a professional in the tech and Management.
 
 ☢️<h2><b>Education:</b></h2>
-Currently pursuing a Bachelor's degree in Computer Science, I have been immersed in a dynamic and challenging curriculum that covers a wide range of topics such as data structures, algorithms, software engineering, and database management. My academic journey has not only honed my problem-solving abilities but also instilled in me a thirst for knowledge in this ever-evolving field.
+Currently pursuing Master's degree in Computer Science and Completed my Bachelor's in CSIT, DELHI (IITM, GGSIPU), I have been immersed in a dynamic and challenging curriculum that covers a wide range of topics such as data structures, algorithms, software engineering, and database management. My academic journey has not only honed my problem-solving abilities but also instilled in me a thirst for knowledge in this ever-evolving field.
 
 
 ☢️<h2><b>Technical Expertise:</b></h2>

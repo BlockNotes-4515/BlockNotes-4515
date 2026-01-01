@@ -153,14 +153,26 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <h2 align="center">📞 Connect With Me..! 🤙 Let's Connect!</h2>
 <p align="center">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="48"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="48"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" height="48"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" height="48"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="48"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="48"/>
-
-  
+<p align="center">
+  <a href="https://github.com/BlockNotes-4515" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="48"/>
+  </a>
+  <a href="mailto:dhayaldhruvwork271.email@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="48"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" height="48"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" height="48"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="48"/>
+  </a>
+  <a href="https://discord.com/users/1367780082491326474" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="48"/>
+  </a>
+</p>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

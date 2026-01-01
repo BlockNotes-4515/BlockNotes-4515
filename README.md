@@ -152,8 +152,14 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 
 <h2 align="center">📞 Connect With Me..! 🤙 Let's Connect!</h2>
-<p align="left">
-<!-- -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="48"/>
+
   
 </p>
 
@@ -227,6 +233,9 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rider-Dark.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg" height="48"/>
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" height="48"/>
 
 
 

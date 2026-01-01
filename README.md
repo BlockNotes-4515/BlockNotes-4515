@@ -160,6 +160,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" height="48"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" height="48"/>
+
 
 
 

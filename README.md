@@ -1,3 +1,4 @@
+<img src="https://camo.githubusercontent.com/ebe740861322abc66a9ea6ded2d62a339e8f9395f177987cf3c6d8c81d3e225c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666662313437266865696768743d39302673656374696f6e3d686561646572">
 <img align="top" alt="banner" src="https://github.com/BlockNotes-4515/BlockNotes-4515/blob/main/Main Banner.png" border="5" background="black">
 DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 <mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>

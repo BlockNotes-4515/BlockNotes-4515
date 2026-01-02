@@ -295,11 +295,15 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     />
   </picture>
 </div>
-
+<!-- Second Section -->
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&langs_count=10&hide_border=true&theme=dracula"
-    alt="BlockNotes-4515 Language Stats"
+    src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&hide_border=true&theme=dracula"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&hide_border=true&theme=dracula"
+    height="170"
   />
 </p>
 

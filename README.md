@@ -60,8 +60,8 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
           <td><a href="https://discord.gg/Gj7PHdaR" target="_blank">Dhruv Dhayal Server</a></td>
        </tr>
         <tr>
-          <td align="center">🌏>�td�
-          <td><strong>ORCID - </strong></td>
+          <td align="center">🌏>☢</td>
+            <td><strong>ORCID - </strong></td>
           <td><a href="https://orcid.org/0009-0000-8346-7834" target="_blank">Research Scholars ID</a></td>
        </tr>
       </table>

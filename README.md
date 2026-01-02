@@ -143,6 +143,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 </div>
 -->
 <!-- This is the GitHub Trophies Section Addede "BlockNotes-4515" -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BlockNotes-4515&margin-w=15" />
 </p>

@@ -342,12 +342,12 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Moving Logos -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
 <h3 align="center"><i>
-Languages Used Updates As Per IST. DhruvDhayalCo. and Productions 
-<a href="#--gifs-for-readme--">🔝</a> 
-'DM' : For Collaborations (dhayaldhruvwork271@gmail.com)
+Languages Used Updates as per IST · DhruvDhayalCo. & Productions  
+<a href="#--gifs-for-readme--">🔝</a>  
+DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruvwork271@gmail.com</a>
 </i></h3>
+
 
 
   

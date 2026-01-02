@@ -262,7 +262,66 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <center><h2>📊 GitHub Stats & Achievements</h2></center>
 <hr>
 <p>
+<div align="left">
+  <picture>
+    <source
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=BlockNotes-4515&count_private=true&layout=compact&show_icons=true&langs_count=10&hide_border=true&theme=dracula&bg_color=0d1117ff&text_color=ffffffff&exclude_repo=UCB-CS61A-Summer-2024&hide=CSS%2CHTML%2CPerl%2CJupyter%20Notebook%2CMakefile"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=BlockNotes-4515&count_private=true&layout=compact&show_icons=true&langs_count=10&hide_border=true&theme=default&exclude_repo=UCB-CS61A-Summer-2024&hide=CSS%2CHTML%2CPerl%2CJupyter%20Notebook%2CMakefile"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=BlockNotes-4515&count_private=true&layout=compact&show_icons=true&langs_count=10&hide_border=true&theme=dracula&exclude_repo=UCB-CS61A-Summer-2024&bg_color=0d1117&hide=CSS%2CHTML%2CPerl%2CJupyter%20Notebook%2CMakefile"
+      alt="BlockNotes-4515's Top Languages"
+      height="210"
+    />
+  </picture>
 
+  <picture>
+    <source
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=BlockNotes-4515&count_private=true&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=BlockNotes-4515&count_private=true&show_icons=true&hide_border=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=BlockNotes-4515&count_private=true&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117"
+      alt="BlockNotes-4515's GitHub Stats"
+      height="210"
+    />
+  </picture>
+</div>
+
+<div align="left">
+  <picture>
+    <source
+      srcset="https://github-statistics-git-master-2edbef4a9bs-projects.vercel.app/api/wakatime?username=BlockNotes-4515&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&langs_count=10&v2"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-statistics-git-master-2edbef4a9bs-projects.vercel.app/api/wakatime?username=BlockNotes-4515&layout=compact&theme=default&hide_border=true&langs_count=10&v2"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-statistics-git-master-2edbef4a9bs-projects.vercel.app/api/wakatime?username=BlockNotes-4515&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&langs_count=10&v2"
+      alt="BlockNotes-4515's WakaTime stats"
+      height="240"
+    />
+  </picture>
+
+  <picture>
+    <img
+      src="fumo.gif"
+      alt="FumoFumo"
+      height="216"
+      style="border-radius:5px;"
+    />
+  </picture>
+</div>
 </p>    
 <br>
 

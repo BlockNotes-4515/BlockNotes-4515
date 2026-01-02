@@ -387,7 +387,7 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
 
 
 <h3 align="center">
-  <strong>Made with 💜 by <a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayalCo.</a></strong>
+  <strong>Made with 💛 by <a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayalCo.</a></strong>
 </h3>
 
 <div align="center" style="margin-bottom: 40px;">

@@ -343,7 +343,11 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <!--- -- Moving Logos -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-   ## Languages Used Updates As Per IST. DhruvDhayalCo. and Productions [🔝](#--gifs-for-readme--) 'DM' : For Collaborations (dhayaldhruvwork271@gmail.com)
+<h3 align="center"><i>
+Languages Used Updates As Per IST. DhruvDhayalCo. and Productions 
+<a href="#--gifs-for-readme--">🔝</a> 
+'DM' : For Collaborations (dhayaldhruvwork271@gmail.com)
+</i></h3>
 
 
   
@@ -375,7 +379,12 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <br><br>    
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting Fir Ayega Fir (Rajma Chawal Khane Chlenge Acha Chl Treat Meri Trf Se!) [🔝](#--gifs-for-readme--)
+<h3 align="center"><i>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+&nbsp;Thanks for Visiting Fir Ayega Fir (Rajma Chawal Khane Chlenge Acha Chl Treat Meri Trf Se!)
+<a href="#--gifs-for-readme--">🔝</a>
+</i></h3>
+
 
 <h3 align="center">
   <strong>Made with 💜 by <a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayalCo.</a></strong>

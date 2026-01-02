@@ -178,6 +178,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
             <!--Main Programming Languages -->
+<center><p><b>Note:</b><i>The icons below represent the technologies and tools I've been exposed to. Some I've mastered at an intermediate level, while others are at a foundational level. I continuously evolve and expand my expertise as a developer.</i></p></center>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" height="48"/>
@@ -248,27 +249,19 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" height="48"/>
-
-
-
 </p>
 </p>
+
+<!-- This is the Statistics Data Analytics Section Here -->
+<center><h2>📊 GitHub Stats & Achievements</h2></center>
 <hr>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlockNotes-4515&show_icons=true&locale=en&layout=compact" alt="Dhruv_Dhayal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&show_icons=true&locale=en" alt="Dhruv_Dhayal" /></p>
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://user-images.githubusercontent.com/20955511/183303704-65313140-d66a-4f9b-9ce6-da176ecd6ec7.png" width="50%"/>
-
-
-
-
-
-<a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/"><img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" border="4" alt="I_love_him!" width="100%" height="60%"></a>
+</p>    
 <br>
-<center>
+
+
+  
 <hr>
      <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Android Developer Challenge" width="100%" style="max-width: 800px;">

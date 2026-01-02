@@ -178,7 +178,13 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
             <!--Main Programming Languages -->
-<center><p><b>Note:</b><i>The icons below represent the technologies and tools I've been exposed to. Some I've mastered at an intermediate level, while others are at a foundational level. I continuously evolve and expand my expertise as a developer.</i></p></center>
+<p align="center">
+  <i><b>
+    “Note: The icons below represent the technologies and tools I’ve been exposed to — 
+    some mastered at an intermediate level, others at a foundational stage. 
+    I remain committed to continuous learning and growth as a developer.”
+  </b></i>
+</p>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" height="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" height="48"/>

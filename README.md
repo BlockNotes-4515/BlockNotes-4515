@@ -328,7 +328,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <!--- -- Moving Logos -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-   ## Languages Used Updates As Per IST. DhruvDhayalCo. and Productions [🔝](#--gifs-for-readme--) 'DM' : For Collaborations (+91-8529994515)
+   ## Languages Used Updates As Per IST. DhruvDhayalCo. and Productions [🔝](#--gifs-for-readme--) 'DM' : For Collaborations (dhayaldhruvwork271@gmail.com)
 
 
   

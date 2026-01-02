@@ -315,7 +315,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
   <picture>
     <img
-      src="fumo.gif"
+      src="StatsValues12.gif"
       alt="FumoFumo"
       height="216"
       style="border-radius:5px;"

@@ -296,32 +296,13 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
   </picture>
 </div>
 
-<div align="left">
-  <picture>
-    <source
-      srcset="https://github-statistics-git-master-2edbef4a9bs-projects.vercel.app/api/wakatime?username=BlockNotes-4515&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&langs_count=10&v2"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-statistics-git-master-2edbef4a9bs-projects.vercel.app/api/wakatime?username=BlockNotes-4515&layout=compact&theme=default&hide_border=true&langs_count=10&v2"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-statistics-git-master-2edbef4a9bs-projects.vercel.app/api/wakatime?username=BlockNotes-4515&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&langs_count=10&v2"
-      alt="BlockNotes-4515's WakaTime stats"
-      height="240"
-    />
-  </picture>
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&layout=compact&langs_count=10&hide_border=true&theme=dracula"
+    alt="BlockNotes-4515 Language Stats"
+  />
+</p>
 
-  <picture>
-    <img
-      src="https://github.com/2edbef4a9b/2edbef4a9b/raw/main/fumo.gif"
-      alt="FumoFumo"
-      height="216"
-      style="border-radius:5px;"
-    />
-  </picture>
-</div>
 </p>    
 <br>
 

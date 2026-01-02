@@ -259,8 +259,9 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 </p>
 
 <!-- This is the Statistics Data Analytics Section Here -->
-<center><h2>📊 GitHub Stats & Achievements</h2></center>
+
 <hr>
+<h2 align="center">📊 GitHub Stats & Achievements</h2>
 <p>
 <div align="left">
   <picture>

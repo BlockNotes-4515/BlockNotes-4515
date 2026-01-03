@@ -144,7 +144,11 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 -->
 <!-- This is the GitHub Trophies Section Addede "BlockNotes-4515" -->
 <h2 align="center">🏆 GitHub Trophies</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-BlockNotes-4515&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BlockNotes-4515&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
 <hr>
 
 

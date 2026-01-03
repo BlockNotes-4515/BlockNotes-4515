@@ -146,11 +146,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BlockNotes-4515&theme=onedark" alt="GitHub Trophies" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=BlockNotes-4515" alt="GitHub Trophies" />
   </a>
 </p>

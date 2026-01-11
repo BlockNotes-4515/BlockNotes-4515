@@ -403,10 +403,9 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
 
 <br>
 <p align="center">
- <img src="https://img.shields.io/badge/Built%20with-❤️%20Love-red" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Built%20by-Developers-blue" />
+  [![Built with Love](https://img.shields.io/badge/Built%20with-%E2%9D%A4-pink)](https://github.com/)
+  [![Built by Developers](https://img.shields.io/badge/Built%20by-Developers-blue)](https://github.com/)
+
 </p> 
 <p align="center">
   <a href="https://github.com/sponsors/BlockNotes-4515">

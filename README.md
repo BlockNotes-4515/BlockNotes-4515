@@ -403,8 +403,10 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
 
 <br>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/626238757866864b3d04ed0c9c43cfc9f8c5983b3c1f085362967381d24761e4/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" alt="Built with Love"/>
-  <img src="https://camo.githubusercontent.com/c3547128fbe25ac91a64f0a4398c580576bb20fe5a106131d57f9eaf819984a7/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d62792d646576656c6f706572732e737667" alt="Built by Developers"/>
+ <img src="https://img.shields.io/badge/Built%20with-❤️%20Love-red" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Built%20by-Developers-blue" />
 </p> 
 <p align="center">
   <a href="https://github.com/sponsors/BlockNotes-4515">

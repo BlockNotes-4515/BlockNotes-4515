@@ -334,7 +334,15 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 </div>
 <br>
 
+<!-- Third Section -->
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="BlockNotes-4515's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="BlockNotes-4515's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=dark&hide_border=true" alt="BlockNotes-4515's GitHub Stats" />
+<hr>
 
+
+<!-- Fourth Section -->
 <hr>
      <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Android Developer Challenge" width="100%" style="max-width: 800px;">

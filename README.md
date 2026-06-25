@@ -336,9 +336,13 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <!-- Third Section -->
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="BlockNotes-4515's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="BlockNotes-4515's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=vision-friendly-dark&hide_border=true" alt="BlockNotes-4515's GitHub Stats" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
+  <br><br>
+  <img width="60%" src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=vision-friendly-dark&hide_border=true" />
+
+</div>
 <hr>
 
 

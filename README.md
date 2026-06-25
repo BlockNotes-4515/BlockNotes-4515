@@ -175,6 +175,12 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
   <a href="https://discord.com/users/1367780082491326474" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="48"/>
   </a>
+  <a href="https://x.com/DhayalDhruv" target="_blank">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" height="48"/>
+</a>
+ <a href="https://t.me/dhayaldhruv271" target="_blank">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=telegram&color=%23ffffff" alt="telegram" height="48"/>
+</a>
 </p>  
 </p>
 

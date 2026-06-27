@@ -439,7 +439,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 </table>
 
 <!-- 3.2 PROJECT SECTION -->
-<h3 align="left">🚀 FEATURED PROJECTS</h3>
+<h3 align="center">📦 FEATURED PROJECTS</h3>
 
 <table>
   <tr>

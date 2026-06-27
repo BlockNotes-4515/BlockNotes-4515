@@ -9,9 +9,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" style = "border-radius: 75px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlockNotes-4515&label=Profile%20views&color=0e75b6&style=rectangle-bar" alt="Dhruv_Dhayal" /> </p>
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=BlockNotes-4515&theme=light&days=30&width=320&height=80&border_radius=6.5" alt="Contribution Sparkline" />
+</p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img src="https://komarev.com/ghpvc/?username=BlockNotes-4515&label=Linkdin&color=0e75b6&style=rectangle-bar" alt="Dhruv_Dhayal" /></a> </p>
+<p align="center">
+  <img src="https://ghstats.dev/api/mini?username=BlockNotes-4515&theme=light&metric=hours" alt="GitHub Hours" />
+  &nbsp;&nbsp;
+  <img src="https://ghstats.dev/api/mini?username=BlockNotes-4515&theme=light&metric=contributions" alt="GitHub Contributions" />
+</p>
 
 ✅ <b> Ex - Former Project Management Intern @Spotify | 🇸🇪 <br>
 ✅ <b> Ex - Technical IoT Head & Core Member at @SDIC | 🇮🇳 <br>

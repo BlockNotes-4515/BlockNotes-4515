@@ -366,8 +366,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <!-- 3.1 PROJECT SECTION -->
 <h3 align="center">📚 SELECTED RESEARCH PUBLICATIONS</h3>
 
-<h3 align="left">📚 SELECTED RESEARCH PUBLICATIONS</h3>
-
 <table>
   <tr>
     <th>CONFERENCE</th>
@@ -399,11 +397,27 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     </td>
     <td>
       BITS Pilani Dubai Campus<br>
-      Dubai, United Arab Emirates
+      Dubai, UAE
     </td>
     <td>
       <a href="https://doi.org/10.1007/978-981-95-5136-1_16" target="_blank">
         <img src="https://img.shields.io/badge/VIEW-SPRINGER-107C41?style=for-the-badge&logo=spring&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>MRIE 2025</b><br>IEEE Conference</td>
+    <td>
+      Quantum-Resistant Blockchain Authentication Protocol: Securing Decentralized Systems Against Post-Quantum Attacks
+    </td>
+    <td>
+      K.R. Mangalam University<br>
+      Gurugram, Haryana, India
+    </td>
+    <td>
+      <a href="https://doi.org/10.1109/MRIE66930.2025.11156407" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white">
       </a>
     </td>
   </tr>

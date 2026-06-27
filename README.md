@@ -363,6 +363,34 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <hr>
 
 
+<!-- 3.1 PROJECT SECTION -->
+<h3 align="left">📚 SELECTED RESEARCH PUBLICATIONS</h3>
+
+<table>
+  <tr>
+    <th>CONFERENCE</th>
+    <th>RESEARCH PAPER</th>
+    <th>LOCATION</th>
+    <th>ACCESS</th>
+  </tr>
+
+  <tr>
+    <td>S4IoT 2025 <br> (Springer Proceedings)</td>
+    <td>
+      IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveillance in Next-Generation Security Applications
+    </td>
+    <td>
+      Kuwait College of Science and Technology (KCST) <br>
+      Doha Road, Doha, Kuwait
+    </td>
+    <td>
+      <a href="https://doi.org/10.1007/978-981-95-5136-1_16" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW%20PAPER-SPRINGER-107C41?style=for-the-badge&logo=spring&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!-- Fourth Section -->
 <hr>
      <p align="center">

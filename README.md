@@ -1,6 +1,8 @@
 <img align="top" alt="banner" src="https://github.com/BlockNotes-4515/BlockNotes-4515/blob/main/Main Banner.png" border="5" background="black">
-DRY-(Don't Repeat Yourself) (My Software Developer Journey)
-<mark><h1 align="center">Hi 👋, I'm Dhruv Dhayal</h1></mark>
+<p align="center"><i>[ DRY — Don’t Repeat Yourself ]</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=34&duration=3500&pause=1400&color=FFFFFF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I+am+Dhruv+Dhayal;Backend+Engineer;Open+to+Opportunities;Research+%26+Development" />
+</p>
 <hr>
 <h3 align="center">Upcoming Software Develouper Aboard! from INDIA 🇮🇳</h3>
 <hr>

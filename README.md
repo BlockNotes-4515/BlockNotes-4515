@@ -363,7 +363,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <hr>
 
 
-<!-- 3.1 PROJECT SECTION -->
+<!-- 3.1 RESEARCH PAPER SECTION -->
 <h3 align="center">📚 SELECTED RESEARCH PUBLICATIONS</h3>
 
 <table>
@@ -433,6 +433,48 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     <td>
       <a href="https://doi.org/10.4018/979-8-3373-5727-0.ch010" target="_blank">
         <img src="https://img.shields.io/badge/VIEW-IGI%20GLOBAL-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- 3.2 PROJECT SECTION -->
+<h3 align="left">🚀 FEATURED PROJECTS</h3>
+
+<table>
+  <tr>
+    <th>PROJECT</th>
+    <th>DESCRIPTION</th>
+    <th>TECH STACK</th>
+    <th>GITHUB</th>
+  </tr>
+
+  <tr>
+    <td><b>IntelliGuard Ver.2</b></td>
+    <td>
+      IoT-Based Autonomous Spybot for Real-Time Surveillance & Next-Gen Security Monitoring
+    </td>
+    <td>
+      Raspberry Pi • IoT • Sensors • Python • Embedded Systems
+    </td>
+    <td>
+      <a href="https://github.com/BlockNotes-4515/IntelliScout-Ver.2" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Shopora Nexus</b></td>
+    <td>
+      Scalable Full-Stack E-Commerce Platform with Secure Authentication & Payment Workflows
+    </td>
+    <td>
+      Spring Boot • Java • JWT • MySQL • REST APIs
+    </td>
+    <td>
+      <a href="https://github.com/BlockNotes-4515/ecommerce-fullstack-project" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
   </tr>

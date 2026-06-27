@@ -368,7 +368,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <table>
   <tr>
-    <th>CONFERENCE</th>
+    <th>CONFERENCE / PUBLISHER</th>
     <th>RESEARCH PAPER</th>
     <th>LOCATION</th>
     <th>ACCESS</th>
@@ -418,6 +418,21 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     <td>
       <a href="https://doi.org/10.1109/MRIE66930.2025.11156407" target="_blank">
         <img src="https://img.shields.io/badge/VIEW-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>IGI Global</b><br>Book Chapter Publication</td>
+    <td>
+      AI-Driven IoT Surveillance Framework for Signal-Resilient Environmental Monitoring in Extreme Conditions
+    </td>
+    <td>
+      Pennsylvania, United States of America (USA)
+    </td>
+    <td>
+      <a href="https://doi.org/10.4018/979-8-3373-5727-0.ch010" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW-IGI%20GLOBAL-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white">
       </a>
     </td>
   </tr>

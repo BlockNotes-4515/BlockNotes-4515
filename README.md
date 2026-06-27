@@ -1,7 +1,7 @@
 <img align="top" alt="banner" src="https://github.com/BlockNotes-4515/BlockNotes-4515/blob/main/Main Banner.png" border="5" background="black">
 <p align="center"><i>[ DRY — Don’t Repeat Yourself ]</i></p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Hi+There+%F0%9F%91%8B%2C+Dhruv+Dhayal+this+side;Backend+Engineer+focused+on+scalable+architecture;Building+Products+and+Delivering+Engineering+Solutions;Microservices+%7C+AWS+%7C+SQL+%7C+Distributed+Systems;Research+Scholar+exploring+innovation+through+technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=3300&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1600&lines=HI+THERE+%F0%9F%91%8B%2C+I+AM+DHRUV+DHAYAL;BACKEND+ENGINEER+SPECIALIZING+IN+SCALABLE+ARCHITECTURE;BUILDING+PRODUCTS+AND+DELIVERING+ENGINEERING+SOLUTIONS;MICROSERVICES+%7C+AWS+%7C+SQL+%7C+SYSTEM+DESIGN;RESEARCH+SCHOLAR+EXPLORING+DEEP+TECH+INNOVATION" />
 </p>
 <hr>
 <h3 align="center">Upcoming Software Develouper Aboard! from INDIA 🇮🇳</h3>

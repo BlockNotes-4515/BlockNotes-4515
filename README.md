@@ -144,12 +144,17 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 -->
 <!-- This is the GitHub Trophies Section Addede "BlockNotes-4515" -->
 <h2 align="center">🏆 GitHub Trophies</h2>
-<img
-  src="https://github-profile-trophy.screw-hand.vercel.app/?username=BlockNotes-4515&theme=gruvbox&row=1&column=7&no-bg=true&margin-w=8"
-  alt="GitHub Trophies"
-/>
-
-<img src="https://ghstats.dev/api/sparkline?username=BlockNotes-4515&theme=gruvbox&days=30&width=320&height=80&border_radius=6.5" alt="Contribution Sparkline" />
+<p align="center">
+  <img
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=BlockNotes-4515&theme=gruvbox&row=1&column=7&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
+  />
+  <br/>
+  <img
+    src="https://ghstats.dev/api/sparkline?username=BlockNotes-4515&theme=gruvbox&days=30&width=320&height=80&border_radius=6.5"
+    alt="Contribution Sparkline"
+  />
+</p>
 <hr>
 
 

@@ -157,11 +157,14 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     src="https://github-profile-trophy.screw-hand.vercel.app/?username=BlockNotes-4515&theme=gruvbox&row=1&column=7&no-bg=true&margin-w=8"
     alt="GitHub Trophies"
   />
-  <br/>
-  <img
-    src="https://ghstats.dev/api/sparkline?username=BlockNotes-4515&theme=gruvbox&days=30&width=320&height=80&border_radius=6.5"
-    alt="Contribution Sparkline"
-  />
+ <p align="left">
+  <a href="https://link.springer.com/search?query=dhruv+dhayal" target="_blank">
+    <img src="https://img.shields.io/badge/SPRINGER-Research%20Publication-107C41?style=for-the-badge&logo=spring&logoColor=white" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=dhruv%20dhayal" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE-Conference%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  </a>
+</p>
 </p>
 <hr>
 

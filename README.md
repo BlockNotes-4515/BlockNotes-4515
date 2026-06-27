@@ -157,7 +157,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     src="https://github-profile-trophy.screw-hand.vercel.app/?username=BlockNotes-4515&theme=gruvbox&row=1&column=7&no-bg=true&margin-w=8"
     alt="GitHub Trophies"
   />
- <p align="left">
+ <p align="center">
   <a href="https://link.springer.com/search?query=dhruv+dhayal" target="_blank">
     <img src="https://img.shields.io/badge/SPRINGER-Research%20Publication-107C41?style=for-the-badge&logo=spring&logoColor=white" />
   </a>

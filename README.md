@@ -354,10 +354,9 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <!-- Third Section -->
 <hr>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BlockNotes-4515&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlockNotes-4515&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
-  <br><br>
-  <img width="60%" src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=vision-friendly-dark&hide_border=true" />
+  <img  alt="BlockNotes-4515's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BlockNotes-4515?cardType=github&theme=dark&fontFamily=&preferLogin=false"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=dark&hide_border=true" alt="BlockNotes-4515's GitHub Stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" />
 </div>
 <hr>

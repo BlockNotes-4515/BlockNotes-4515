@@ -359,8 +359,9 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
   src="https://awesome-github-stats.azurewebsites.net/user-stats/BlockNotes-4515?cardType=github&theme=dark&preferLogin=false" 
   alt="GitHub Stats"
 />
-
-<a href="https://github.com/sponsors/BlockNotes-4515">
+<img src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=dark&hide_border=true" alt="BlockNotes-4515's GitHub Stats"/>
+  <br>
+  <a href="https://github.com/sponsors/BlockNotes-4515">
   <img 
     align="right" 
     width="38%" 
@@ -368,8 +369,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     alt="Buy Me A Coffee"
   />
 </a>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=dark&hide_border=true" alt="BlockNotes-4515's GitHub Stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" />
 </div>
 <hr>

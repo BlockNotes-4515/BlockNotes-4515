@@ -354,9 +354,20 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <!-- Third Section -->
 <hr>
 <div align="center">
-  <img align="left" width="58%" src="https://awesome-github-stats.azurewebsites.net/user-stats/BlockNotes-4515?cardType=github&theme=dark&preferLogin=false" alt="GitHub Stats"/>
+  <img 
+  align="left" 
+  width="55%" 
+  src="https://awesome-github-stats.azurewebsites.net/user-stats/BlockNotes-4515?cardType=github&theme=dark&preferLogin=false" 
+  alt="GitHub Stats"
+/>
+
 <a href="https://github.com/sponsors/BlockNotes-4515">
-  <img align="right" width="32%" src="Images/BUYMEACOFFEE.png" alt="Buy Me A Coffee"/>
+  <img 
+    align="right" 
+    width="38%" 
+    src="Images/BUYMEACOFFEE.png" 
+    alt="Buy Me A Coffee"
+  />
 </a>
   <br>
   <img src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=dark&hide_border=true" alt="BlockNotes-4515's GitHub Stats"/>

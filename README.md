@@ -356,7 +356,6 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <div align="center">
   <img 
   align="left" 
-  width="55%" 
   src="https://awesome-github-stats.azurewebsites.net/user-stats/BlockNotes-4515?cardType=github&theme=dark&preferLogin=false" 
   alt="GitHub Stats"
 />

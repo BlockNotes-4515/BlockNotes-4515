@@ -363,8 +363,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
   <br>
   <a href="https://github.com/sponsors/BlockNotes-4515">
   <img 
-    align="right" 
-    width="38%" 
+    align="center" 
+    width="32%" 
     src="Images/BUYMEACOFFEE.png" 
     alt="Buy Me A Coffee"
   />

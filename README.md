@@ -355,6 +355,9 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <hr>
 <div align="center">
   <img  alt="BlockNotes-4515's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/BlockNotes-4515?cardType=github&theme=dark&fontFamily=&preferLogin=false"/>
+  <a href="https://github.com/sponsors/BlockNotes-4515">
+    <img src="Images/BUYMEACOFFEE.png" />
+  </a>
   <br>
   <img src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=dark&hide_border=true" alt="BlockNotes-4515's GitHub Stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" />
@@ -565,9 +568,6 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
 <p align="center">
   <a href="https://github.com/sponsors/BlockNotes-4515">
     <img src="https://img.shields.io/badge/Sponsor-BlockNotes--4515-%23ea4aaa?logo=githubsponsors&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/sponsors/BlockNotes-4515">
-    <img src="Images/BUYMEACOFFEE.png" />
   </a>
 </p>
 

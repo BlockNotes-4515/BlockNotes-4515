@@ -566,6 +566,9 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
   <a href="https://github.com/sponsors/BlockNotes-4515">
     <img src="https://img.shields.io/badge/Sponsor-BlockNotes--4515-%23ea4aaa?logo=githubsponsors&style=for-the-badge" />
   </a>
+  <a href="https://github.com/sponsors/BlockNotes-4515">
+    <img src="https://img.shields.io/badge/Sponsor-BlockNotes--4515-%23ea4aaa?logo=githubsponsors&style=for-the-badge" />
+  </a>
 </p>
 
 

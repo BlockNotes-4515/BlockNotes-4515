@@ -640,4 +640,10 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
 <img src="https://img.shields.io/badge/ICON-90+-F5E6A1?style=for-the-badge&labelColor=2E1A47&color=F5E6A1"/>
 </p>
 
+<p align="center">
+  <a href="https://gitfut.com/BlockNotes-4515">
+    <img src="https://img.shields.io/badge/Check%20My%20GitFut-⚽%2076%20OVR%20Gold-D4AF37?style=for-the-badge&logoColor=black&labelColor=B8860B" alt="GitFut"/>
+  </a>
+</p>
+
 <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

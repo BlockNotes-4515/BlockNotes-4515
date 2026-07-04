@@ -645,4 +645,11 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
     <img src="https://img.shields.io/badge/🃏%20Check%20My%20GitFut-76%20OVR%20Gold-D4AF37?style=for-the-badge&logo=trophy&logoColor=black&labelColor=B8860B" alt="Check My GitFut" height="50"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://gitfut.com/BlockNotes-4515">
+    <strong>@GitFut</strong>
+  </a>
+  &nbsp;•&nbsp;
+  <em>Scouting my code, one commit at a time.</em>
+</p>
 <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

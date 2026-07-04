@@ -577,14 +577,67 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
   </a>
 </p>
 
+<hr>
+
+
+<h2 align="center">🃏 GitFut Scout Card</h2>
+
 <p align="center">
-  <a href="https://gitfut.com/BlockNotes-4115">
+  My GitFut Scout Card showcases my GitHub journey through an EA FC–inspired player card.
+  With a current <strong>76 OVR (Gold)</strong>, it reflects my coding consistency, open-source
+  contributions, repository impact, and development activity. The card is generated from
+  live GitHub data and automatically updates as I continue building projects, contributing
+  to the developer community, and expanding my technical expertise.
+</p>
+
+<h2 align="center">🃏 GitFut Scouting Report</h2>
+
+<table align="center">
+  <tr>
+    <th align="left">🏆 Attribute</th>
+    <th align="left">Details</th>
+  </tr>
+  <tr>
+    <td><strong>Overall Rating</strong></td>
+    <td><strong>76 OVR</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Card Finish</strong></td>
+    <td>🥇 Gold (75–84)</td>
+  </tr>
+  <tr>
+    <td><strong>Position</strong></td>
+    <td>Developer 💻</td>
+  </tr>
+  <tr>
+    <td><strong>Archetype</strong></td>
+    <td>Versatile Playmaker ⚡</td>
+  </tr>
+  <tr>
+    <td><strong>Current Status</strong></td>
+    <td>Active GitHub Contributor 🚀</td>
+  </tr>
+  <tr>
+    <td><strong>Target</strong></td>
+    <td>Reach In-Form (85+) 📈</td>
+  </tr>
+</table>
+<p align="center">
+  <a href="https://gitfut.com/BlockNotes-4515">
     <img
-      src="https://gitfut.com/BlockNotes-4115.png?country=IN"
+      src="https://gitfut.com/BlockNotes-4515.png?country=IN"
       alt="GitFut Card"
-      width="400"
+      width="450"
     />
   </a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/BRONZE-%3C64-8B5A2B?style=for-the-badge&labelColor=2d1f12&color=8B5A2B"/>
+<img src="https://img.shields.io/badge/SILVER-65--74-C0C0C0?style=for-the-badge&labelColor=2d2d2d&color=C0C0C0"/>
+<img src="https://img.shields.io/badge/GOLD-75--84-FBC02D?style=for-the-badge&labelColor=3b2b00&color=FBC02D"/>
+<img src="https://img.shields.io/badge/IN--FORM-Spike-B71C1C?style=for-the-badge&labelColor=2b0000&color=E53935"/>
+<img src="https://img.shields.io/badge/TOTY-85--89-2979FF?style=for-the-badge&labelColor=001B5E&color=4FC3F7"/>
+<img src="https://img.shields.io/badge/ICON-90+-F5E6A1?style=for-the-badge&labelColor=2E1A47&color=F5E6A1"/>
 </p>
 
 <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

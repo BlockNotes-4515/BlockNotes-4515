@@ -577,6 +577,6 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
   </a>
 </p>
 
-
+[![My GitFut Card](https://gitfut.com/BlockNotes-4515.png?country=IN)](https://gitfut.com/BlockNotes-4515)
 
 <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

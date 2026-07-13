@@ -652,6 +652,8 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
   &nbsp;•&nbsp;
   <em>Scouting my code, one commit at a time.</em>
 </p>
+
+<!-- FOOTER BANNER -->
 <p align="center">
   <img src="Images/DHRUVCO.png" alt="Footer Banner" width="100%">
 </p>

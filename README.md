@@ -652,4 +652,7 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
   &nbsp;•&nbsp;
   <em>Scouting my code, one commit at a time.</em>
 </p>
+<p align="center">
+  <img src="Images/DHRUVCO.png" alt="Footer Banner" width="100%">
+</p>
 <img align="right" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"></p>

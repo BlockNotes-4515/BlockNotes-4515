@@ -444,6 +444,24 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
       </a>
     </td>
   </tr>
+
+   <tr>
+    <td><b>CRC Press</b><br>
+        (Taylor & Francis Group)<br>
+        Book Chapter Publication</td>
+    <td>
+      <b>Drone-enabled IoT-integrated Smart Health-care System for Reducing Ambulance Delays and Mortality in Emergency Conditions</b>
+    </td>
+    <td>
+     <b>Boca Raton, Florida,<br>
+        United States of America (USA)</b>
+    </td>
+    <td>
+      <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003685890-5/drone-enabled-iot-integrated-smart-health-care-system-reducing-ambulance-delays-mortality-emergency-conditions-dhruv-dhayal-manzoor-ansari-masood-alam?context=ubx&refId=027086a8-0720-4f60-8f2a-fa49d9ea634a" target="_blank">
+        <img src="https://img.shields.io/badge/VIEW-TAYLOR%20%26%20FRANCIS-00A9C7?style=for-the-badge&logoColor=white">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <!-- 3.2 PROJECT SECTION -->

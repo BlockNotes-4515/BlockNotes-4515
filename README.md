@@ -454,7 +454,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     </td>
     <td>
      <b>Boca Raton, Florida,<br>
-        United States of America (USA)</b>
+        United States of America '(USA)</b>
     </td>
     <td>
       <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003685890-5/drone-enabled-iot-integrated-smart-health-care-system-reducing-ambulance-delays-mortality-emergency-conditions-dhruv-dhayal-manzoor-ansari-masood-alam?context=ubx&refId=027086a8-0720-4f60-8f2a-fa49d9ea634a" target="_blank">

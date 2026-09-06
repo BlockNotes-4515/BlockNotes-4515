@@ -367,9 +367,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
   />
 </a>
   ### GitHub 3D Contribution Graph
-
-  ![](https://raw.githubusercontent.com/BlockNotes-4515/BlockNotes-4515/main/profile-3d-contrib/profile-night-green.svg)
   
+  [![Dhruv's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&custom_title=Dhruv%27s%20GitHub%20Activity%20Graph&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true)](https://github.com/BlockNotes-4515)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" />
 </div>
 <hr>

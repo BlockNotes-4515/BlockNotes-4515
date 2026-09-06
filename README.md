@@ -368,18 +368,20 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 </a>
   
   ### GitHub 3D Contribution Graph
+
 <a href="https://leetcode.com/u/dhayaldhruv274/">
   <img
     src="https://www.readmecodegen.com/api/leetcode-stats?username=dhayaldhruv274&theme=monokai"
     alt="LeetCode Stats"
-    height="200"
+    height="250"
   />
   <img
     src="https://leetcard.jacoblin.cool/dhayaldhruv274?ext=heatmap"
     alt="LeetCode Heatmap"
-    height="200"
+    height="250"
   />
 </a>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" />
 </div>
 <hr>

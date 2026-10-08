@@ -477,6 +477,28 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
       </a>
     </td>
   </tr>
+  <tr>
+  <td>
+    <b>Bentham Science Publishers</b><br>
+    Bentham Books<br>
+    Book Chapter Publication
+  </td>
+
+  <td>
+    <b>Build an AI/ML Tennis Analysis System with YOLO, PyTorch, and Key Point Extraction</b>
+  </td>
+
+  <td>
+    <b>Sharjah,<br>
+    United Arab Emirates (UAE)</b>
+  </td>
+
+  <td>
+    <a href="https://doi.org/10.2174/9798898816841126010011" target="_blank">
+      <img src="https://img.shields.io/badge/BENTHAM%20SCIENCE-BOOK%20CHAPTER-005B8F?style=for-the-badge&logo=bookstack&logoColor=white">
+    </a>
+  </td>
+</tr>
 </table>
 
 <!-- 3.2 PROJECT SECTION -->

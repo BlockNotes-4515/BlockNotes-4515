@@ -489,8 +489,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
   </td>
 
   <td>
-    <b>Sharjah,<br>
-    United Arab Emirates (UAE)</b>
+    <b>New Delhi,<br>
+    INDIA, IN</b>
   </td>
 
   <td>

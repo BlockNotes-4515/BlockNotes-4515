@@ -385,7 +385,11 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     height="250"
   />
 </a>
+
+
+<!--
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" />
+-->
 </div>
 <hr>
 

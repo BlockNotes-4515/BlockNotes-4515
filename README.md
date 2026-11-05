@@ -356,7 +356,11 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/BlockNotes-4515?cardType=github&theme=dark&preferLogin=false" alt="GitHub Stats" width="49%"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=BlockNotes-4515&theme=dark&hide_border=true" alt="GitHub Streak" width="46%"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=BlockNotes-4515&theme=dark&hide_border=true&v=20261105"
+    alt="GitHub Streak"
+    width="46%"
+  />
   <br>
   <a href="https://github.com/sponsors/BlockNotes-4515">
   <img 

@@ -359,7 +359,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
   <img
     src="https://streak-stats.demolab.com/?user=BlockNotes-4515&theme=dark&hide_border=true&v=20261105"
     alt="GitHub Streak"
-    width="46%" height="36%"
+    width="46%" height="100%"
   />
   <br>
   <a href="https://github.com/sponsors/BlockNotes-4515">

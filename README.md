@@ -385,8 +385,29 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     height="250"
   />
 </a>
+<!--Github Contributions 3-D Models-->
+<h2 align="center">
+  ✦ 3D CONTRIBUTION UNIVERSE
+</h2>
 
+<p align="center">
+  <samp>
+    <b>Every commit builds a dimension.</b>
+  </samp>
+</p>
+ <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D GitHub Contribution Calendar"
+  />
 
+  <h2 align="center">
+  <samp>Beyond the Code.</samp>
+</h2>
+
+<p align="center">
+  <sub>My GitHub activity, brought to life in 3D.</sub>
+</p>
 <!--
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlockNotes-4515&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" />
 -->

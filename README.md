@@ -110,7 +110,8 @@
 <h2 align="center">🙋‍♂️ <strong>About Myself</strong></h2>
 
 
-👋 As a 'BCA.H' Student & currently serve as a coordinator in Software Development Cell, I have a passionate of deep interest in software development & Software Engineering. passionate and driven Computer Science student with a deep-rooted love for programming and technology. Aspiring to make a positive impact in the digital world, I am constantly seeking opportunities to expand my skill set and grow as a professional in the tech and Management.
+👋 Currently pursuing an **MCA at Amity University, Noida**, with a strong foundation in Computer Science and a keen interest in **Backend Development and Software Engineering**. Skilled in Java, Spring Boot, REST API development, and database management, with hands-on experience building backend-driven applications and full-stack projects. 
+Having previously served as a **Coordinator in the Software Development Cell**, I have developed collaboration, leadership, and problem-solving skills. Passionate about programming and emerging technologies, I continuously strive to strengthen my technical expertise, build scalable software solutions, and make a meaningful impact in the technology industry.
 
 ☢️<h2><b>Education:</b></h2>
 Currently pursuing Master's degree in Computer Science and Completed my Bachelor's in CSIT, DELHI (IITM, GGSIPU), I have been immersed in a dynamic and challenging curriculum that covers a wide range of topics such as data structures, algorithms, software engineering, and database management. My academic journey has not only honed my problem-solving abilities but also instilled in me a thirst for knowledge in this ever-evolving field.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banners/1.png"
+  <img src="./Bannners/1.png"
        alt="Dhruv Dhayal Banner"
        width="100%"
        style="border: 5px solid black;" />

@@ -777,7 +777,7 @@ DM for collaborations: <a href="mailto:dhayaldhruvwork271@gmail.com">dhayaldhruv
   <img src="Images/DHRUVCO.png" alt="Footer Banner" width="100%">
 </p>
 <p align="center">
-  <img src="./Bannners/1.png"
+  <img src="./Bannners/2.png"
        alt="Dhruv Dhayal Banner"
        width="100%"
        style="border: 5px solid black;" />

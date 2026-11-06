@@ -36,43 +36,71 @@
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" height="250" alt="animated hello">
     </td>
     <td align="left" valign="top">
-      <table>
-        <tr>
-          <td align="center">😊</td>
-          <td><strong>Email:</strong></td>
-          <td><a href="mailto:dhayaldhruv271@gmail.com">dhayaldhruv271@gmail.com</a></td>
-        </tr>
-        <tr>
-          <td align="center">📷</td>
-          <td><strong>Instagram - </strong></td>
-          <td><a href="https://www.instagram.com/dhayaldhruv271/?hl=en" target="_blank">@dhruvdhayal271</a></td>
-        </tr>
-        <tr>
-          <td align="center">💼</td>
-          <td><strong>LinkedIn - </strong></td>
-          <td><a href="https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank">linkedin.com/in/your-linkedin-id</a></td>
-        </tr>
-        <tr>
-          <td align="center">💻</td>
-          <td><strong>GitHub - </strong></td>
-          <td><a href="https://github.com/BlockNotes-4515" target="_blank">BlockNotes-4515</a></td>
-        </tr>
-        <tr>
-          <td align="center">📀</td>
-          <td><strong>Spotify - </strong></td>
-          <td><a href="https://github.com/dhruvdhayal271](https://open.spotify.com/playlist/4Kj8u2FK0MCuLIQ1KO41eE?si=b6HQpPunQQ65lpzu8ID6uA&pi=7o-k0-nzS62bu" target="_blank">RELAXATION PT.1</a></td
-        </tr>
-       <tr>
-          <td align="center">🌀</td>
-          <td><strong>Discord - </strong></td>
-          <td><a href="https://discord.gg/Gj7PHdaR" target="_blank">Dhruv Dhayal Server</a></td>
-       </tr>
-        <tr>
-          <td align="center">☢</td>
-            <td><strong>ORCID - </strong></td>
-          <td><a href="https://orcid.org/0009-0000-8346-7834" target="_blank">Research Scholars ID</a></td>
-       </tr>
-      </table>
+      <table align="center">
+  <tr>
+    <td align="center">✉️</td>
+    <td><strong>Email</strong></td>
+    <td>
+      <a href="mailto:dhayaldhruv271@gmail.com">
+        <img src="https://img.shields.io/badge/EMAIL-dhayaldhruv271%40gmail.com-white?style=flat-square&logo=gmail&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📷</td>
+    <td><strong>Instagram</strong></td>
+    <td>
+      <a href="https://www.instagram.com/dhayaldhruv271/">
+        <img src="https://img.shields.io/badge/INSTAGRAM-%40dhruvdhayal271-white?style=flat-square&logo=instagram&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">💼</td>
+    <td><strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/">
+        <img src="https://img.shields.io/badge/LINKEDIN-Dhruv_Dhayal-white?style=flat-square&logo=linkedin&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">💻</td>
+    <td><strong>GitHub</strong></td>
+    <td>
+      <a href="https://github.com/BlockNotes-4515">
+        <img src="https://img.shields.io/badge/GITHUB-BlockNotes--4515-white?style=flat-square&logo=github&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🎵</td>
+    <td><strong>Spotify</strong></td>
+    <td>
+      <a href="https://open.spotify.com/playlist/4Kj8u2FK0MCuLIQ1KO41eE?si=b6HQpPunQQ65lpzu8ID6uA&pi=7o-k0-nzS62bu">
+        <img src="https://img.shields.io/badge/SPOTIFY-RELAXATION_PT.1-white?style=flat-square&logo=spotify&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🌀</td>
+    <td><strong>Discord</strong></td>
+    <td>
+      <a href="https://discord.gg/Gj7PHdaR">
+        <img src="https://img.shields.io/badge/DISCORD-Dhruv_Dhayal_Server-white?style=flat-square&logo=discord&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">☢️</td>
+    <td><strong>ORCID</strong></td>
+    <td>
+      <a href="https://orcid.org/0009-0000-8346-7834">
+        <img src="https://img.shields.io/badge/ORCID-Research_Scholars_ID-white?style=flat-square&logo=orcid&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>

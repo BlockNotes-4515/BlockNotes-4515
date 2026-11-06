@@ -111,6 +111,7 @@
 
 
 👋 Currently pursuing an **MCA at Amity University, Noida**, with a strong foundation in Computer Science and a keen interest in **Backend Development and Software Engineering**. Skilled in Java, Spring Boot, REST API development, and database management, with hands-on experience building backend-driven applications and full-stack projects. 
+
 Having previously served as a **Coordinator in the Software Development Cell**, I have developed collaboration, leadership, and problem-solving skills. Passionate about programming and emerging technologies, I continuously strive to strengthen my technical expertise, build scalable software solutions, and make a meaningful impact in the technology industry.
 
 ☢️<h2><b>Education:</b></h2>

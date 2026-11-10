@@ -324,13 +324,20 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <hr>
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
-<p align="left">
+
+<p align="center">
   <img
     src="https://ghstats.dev/api/langs?username=BlockNotes-4515&theme=gruvbox&layout=donut"
     alt="Top Languages"
-    width="400"
+    width="48%"
+  />
+  <img
+    src="https://ghstats.dev/api/card?username=BlockNotes-4515&theme=gruvbox&border_radius=19.5"
+    alt="GitHub Stats Card"
+    width="48%"
   />
 </p>
+
 
 
 <!-- First Section -->

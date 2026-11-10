@@ -331,6 +331,11 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     alt="Top Languages"
     width="48%"
   />
+   <img
+    src="https://ghstats.dev/api/langs?username=BlockNotes-4515&theme=gruvbox&layout=grid" alt="Top Languages" 
+    alt="Top Languages"
+    width="48%"
+  />
   <img
     src="https://ghstats.dev/api/card?username=BlockNotes-4515&theme=gruvbox&border_radius=19.5"
     alt="GitHub Stats Card"

@@ -326,23 +326,30 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 
 
+
+<h2 align="center">✦ GitHub Analytics</h2>
+
 <p align="center">
   <img
     src="https://ghstats.dev/api/langs?username=BlockNotes-4515&layout=donut&bg=151515&text=9CA3AF&title_color=F5F5F5&icon_color=63F59A&border_color=292929"
     alt="Top Languages Donut"
-    width="32%"
+    width="42%"
   />
   <img
     src="https://ghstats.dev/api/langs?username=BlockNotes-4515&layout=grid&bg=151515&text=9CA3AF&title_color=F5F5F5&icon_color=63F59A&border_color=292929"
     alt="Top Languages Grid"
-    width="32%"
-  />
-  <img
-    src="https://ghstats.dev/api/card?username=BlockNotes-4515&size=compact&hide=commits%2Chours%2Cprs&bg=151515&text=9CA3AF&title_color=F5F5F5&icon_color=63F59A&border_color=292929&border_radius=19.5"
-    alt="GitHub Stats Card"
-    width="32%"
+    width="54%"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=BlockNotes-4515&size=large&hide=commits%2Chours%2Cprs&bg=151515&text=9CA3AF&title_color=F5F5F5&icon_color=63F59A&border_color=292929&border_radius=19.5"
+    alt="GitHub Statistics"
+    width="75%"
+  />
+</p>
+
 
 
 

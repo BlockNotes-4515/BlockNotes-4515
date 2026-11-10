@@ -323,6 +323,12 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <hr>
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
+<iframe
+		src="https://skyline3d.in/BlockNotes-4515/embed?endDate=2026-11-10&enableZoom=false"
+		width="100%"
+		height="100%"
+		frameborder="0"
+	></iframe>
 </div>
 <!-- First Section -->
 <div align="left">

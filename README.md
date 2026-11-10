@@ -337,7 +337,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
     width="48%"
   />
   <img
-    src="https://ghstats.dev/api/card?username=BlockNotes-4515&theme=gruvbox&border_radius=19.5"
+    src="https://ghstats.dev/api/card?username=BlockNotes-4515&theme=gruvbox&border_radius=19.5&size=compact&hide=commits%2Chours%2Cprs" alt="GitHub Stats Card" 
     alt="GitHub Stats Card"
     width="48%"
   />

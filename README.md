@@ -325,23 +325,25 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
 
+
 <p align="center">
   <img
-    src="https://ghstats.dev/api/langs?username=BlockNotes-4515&theme=gruvbox&layout=donut"
-    alt="Top Languages"
-    width="48%"
-  />
-   <img
-    src="https://ghstats.dev/api/langs?username=BlockNotes-4515&theme=gruvbox&layout=grid" alt="Top Languages" 
-    alt="Top Languages"
-    width="48%"
+    src="https://ghstats.dev/api/langs?username=BlockNotes-4515&layout=donut&bg=151515&text=9CA3AF&title_color=F5F5F5&icon_color=63F59A&border_color=292929"
+    alt="Top Languages Donut"
+    width="32%"
   />
   <img
-    src="https://ghstats.dev/api/card?username=BlockNotes-4515&theme=gruvbox&border_radius=19.5&size=compact&hide=commits%2Chours%2Cprs" alt="GitHub Stats Card" 
+    src="https://ghstats.dev/api/langs?username=BlockNotes-4515&layout=grid&bg=151515&text=9CA3AF&title_color=F5F5F5&icon_color=63F59A&border_color=292929"
+    alt="Top Languages Grid"
+    width="32%"
+  />
+  <img
+    src="https://ghstats.dev/api/card?username=BlockNotes-4515&size=compact&hide=commits%2Chours%2Cprs&bg=151515&text=9CA3AF&title_color=F5F5F5&icon_color=63F59A&border_color=292929&border_radius=19.5"
     alt="GitHub Stats Card"
-    width="48%"
+    width="32%"
   />
 </p>
+
 
 
 

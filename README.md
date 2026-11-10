@@ -323,41 +323,8 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 
 <hr>
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
-<p>
-<div align="left">
-  <picture>
-    <source
-      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=BlockNotes-4515&count_private=true&layout=compact&show_icons=true&langs_count=10&hide_border=true&theme=dracula&bg_color=0d1117ff&text_color=ffffffff&exclude_repo=UCB-CS61A-Summer-2024&hide=CSS%2CHTML%2CPerl%2CJupyter%20Notebook%2CMakefile"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=BlockNotes-4515&count_private=true&layout=compact&show_icons=true&langs_count=10&hide_border=true&theme=default&exclude_repo=UCB-CS61A-Summer-2024&hide=CSS%2CHTML%2CPerl%2CJupyter%20Notebook%2CMakefile"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api/top-langs/?username=BlockNotes-4515&count_private=true&layout=compact&show_icons=true&langs_count=10&hide_border=true&theme=dracula&exclude_repo=UCB-CS61A-Summer-2024&bg_color=0d1117&hide=CSS%2CHTML%2CPerl%2CJupyter%20Notebook%2CMakefile"
-      alt="BlockNotes-4515's Top Languages"
-      height="210"
-    />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=BlockNotes-4515&count_private=true&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=BlockNotes-4515&count_private=true&show_icons=true&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-statistics-2edbef4a9bs-projects.vercel.app/api?username=BlockNotes-4515&count_private=true&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117"
-      alt="BlockNotes-4515's GitHub Stats"
-      height="210"
-    />
-  </picture>
 </div>
-<!-- Second Section -->
+<!-- First Section -->
 <div align="left">
   <picture>
     <source

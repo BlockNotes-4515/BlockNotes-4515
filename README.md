@@ -324,9 +324,13 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <hr>
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
-[![BlockNotes-4515's GitHub Stats](https://www.githubstats.tech/api/card?username=BlockNotes-4515&theme=dark&size=large&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=1&show_top_repo=1&show_profile=1&show_top_percent=1&contrib_stars=1)](https://www.githubstats.tech)
-
-<a href="https://www.githubstats.tech"><img alt="BlockNotes-4515's GitHub Stats" src="https://www.githubstats.tech/api/card?username=BlockNotes-4515&theme=dark&size=large&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=1&show_top_repo=1&show_profile=1&show_top_percent=1&contrib_stars=1" /></a>
+<p align="left">
+  <img
+    src="https://ghstats.dev/api/langs?username=BlockNotes-4515&theme=gruvbox&layout=donut"
+    alt="Top Languages"
+    width="400"
+  />
+</p>
 
 
 <!-- First Section -->

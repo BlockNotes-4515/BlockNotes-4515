@@ -386,7 +386,7 @@ As I approach the next phase of my journey, I'm eager to contribute my skills an
 <!-- Third Section -->
 <hr>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=BlockNotes-4515&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00e5ff&hide_border=true&rank_icon=github" width="75%" />
+ <img src="https://github-stats-extended.vercel.app/api?username=BlockNotes-4515&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=f5f5f7&text_color=a1a1a6&icon_color=ffffff&hide_border=true&rank_icon=github&card_width=380" width="380" />
 &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://streak-stats.demolab.com/?user=BlockNotes-4515&theme=dark&hide_border=true&v=20261105"
